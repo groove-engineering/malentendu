@@ -1,0 +1,12 @@
+# dependencies / build
+node_modules/
+dist/
+.output/
+.slidev/
+*.log
+
+# os
+.DS_Store
+
+# local agent config (may contain local-only settings)
+.claude/settings.local.json
