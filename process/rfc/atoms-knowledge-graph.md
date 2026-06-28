@@ -199,7 +199,7 @@ roster has no musicologist (§8) would compile *nothing* and the ear could never
 |------------|------------------------------|--------------------|---------|
 | proposed   | included (flagged)           | excluded           | drafted, not vetted; the ear still judges |
 | validated  | included                     | included           | a human signed off (`signed_by` non-empty) |
-| contested  | author picks, or both shown  | excluded           | divergence *held*, not "wrong" (§3) |
+| contested  | excluded (stored, "to resolve") | excluded        | divergence *held* in storage (§3), not "wrong"; compile waits for the author to resolve |
 
 `draft` is the default today: it keeps the work audible without a musicologist, and the circle's
 ear is the validator that *does* exist. `strict` is the vetted version for when the roster gap
@@ -265,6 +265,27 @@ The existing JSON fields don't all belong in the same place. Placement rule:
 
 The test: *"would this be true of the genre on its own?"* → atom. *"Is this a decision about this
 blend?"* → crossing.
+
+### Build & validation (locked in eng review)
+
+- **`poc/schema.py` is the single source of the data contract.** The schema block above is
+  illustrative; once implemented, this doc points at `schema.py` instead of keeping a second copy
+  (no drift).
+- **Sequencing:** refactor first, then switch behavior. Land the loader + schema, *then* change
+  `compile.py` from flat molecules to atom+crossing compose. Never structural + behavioral in one
+  commit.
+- **Referential integrity:** `compile.py` rejects a crossing whose `atoms` are missing with a named
+  `UnknownAtom`, not a bare `KeyError`.
+- **CI (GitHub Actions, on every PR):** run `python poc/compile.py --check` + a `locator` shape
+  check + the referential check. The repo has no CI today; without it these guards are decoration
+  and a bad atom merges silently.
+- **Tests:** assert-based, extending the existing `--check` pattern (no pytest). Cover: locator
+  required, source required, `held_by` non-empty, ref-check → `UnknownAtom`, status×mode filter
+  (proposed excluded in `--strict` / included in `--draft`), compose contains both genres,
+  contested excluded from compile.
+- **Migration regression (critical):** compile the migrated atoms and diff against the old
+  `fusions.json` output for the three existing fusions. If it diverges, the migration broke
+  something.
 
 ## Risks / open questions
 
