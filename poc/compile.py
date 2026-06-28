@@ -78,6 +78,12 @@ def compile_brief(f):
             for e in ex
         )
         parts.append(f"Exemplaires : {ex_str}.")
+    if f.get("ressenti"):
+        rs = "; ".join(
+            f"{r['text']} (selon {', '.join(r.get('held_by', ['?']))})"
+            for r in f["ressenti"]
+        )
+        parts.append(f"Ressentis : {rs}.")
     return " ".join(parts)
 
 

@@ -5,19 +5,25 @@
     "genre_b": "Acid blues",
     "groove_from": {
       "genre": "Maloya",
-      "desc": "rolling 6/8 maloya pulse, kayamb shaker, roulèr bass drum, call-and-response feel"
+      "desc": "Reunionese maloya as the DOMINANT frame: hypnotic 6/8 maloya pulse driven by kayamb, roulèr, sati and bobre; Creole call-and-response, ancestral Indian-Ocean trance"
     },
     "harmony_from": {
       "genre": "Acid blues",
-      "desc": "minor pentatonic blues phrasing, bent notes, TB-303 acid bassline as the harmonic spine"
+      "desc": "acid blues only as a guest layer over the maloya, never the frame: minor pentatonic bends and a TB-303 acid bassline weaving through, subordinate to the percussion"
     },
-    "instrumentation": ["kayamb", "roulèr", "TB-303 acid bass", "slide guitar", "hand percussion"],
-    "production": "raw, hypnotic, lightly lo-fi, tape saturation, live-room feel",
+    "instrumentation": ["kayamb", "roulèr", "sati", "bobre", "TB-303 acid bass", "sparse subordinate blues guitar"],
+    "production": "raw, percussion-forward, tropical and live; the Reunionese percussion always in front, lo-fi but warm",
     "tempo_feel": "100-112 bpm, trance-inducing, swung",
-    "tension": "the 303 squelch fighting the acoustic maloya percussion; sacred trance meeting electronic acid",
-    "references": ["Danyèl Waro", "early Chicago acid", "John Lee Hooker drone"],
-    "avoid": "clean EDM gloss, quantized rigidity, festival drop",
-    "vocal": "Creole call-and-response, raw, incantatory"
+    "tension": "the 303 squelch threading through acoustic maloya percussion; electronic acid as a guest in a Reunionese trance, not a takeover",
+    "references": ["Danyèl Waro", "Christine Salem", "Lindigo", "Granmoun Lélé", "early Chicago acid (texture only)"],
+    "constraints": [
+      {"claim": "Reunionese maloya percussion must lead; acid blues stays a guest layer", "held_by": ["Tristan"], "note": "apres derive vers le rock sovietique au v1 (cf. catalogue MR-001)"}
+    ],
+    "avoid": "70s blues-rock band, Eastern-European / Soviet rock, dominant electric guitar, anything erasing the maloya percussion; clean EDM gloss, festival drop",
+    "vocal": "Creole call-and-response, raw, incantatory, in Reunion Creole",
+    "ressenti": [
+      {"text": "v1 a derive vers le bloc sovietique (« emission zero, Hongrie d'URSS »), maloya disparu -> atome renforce ; voir catalogue MR-001", "held_by": ["Nelly"]}
+    ]
   },
   {
     "id": "fado-x-dub",
