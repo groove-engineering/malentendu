@@ -6,6 +6,22 @@
 - **Reference spec:** [`../method.md`](../method.md) · diagrams & examples: [`../examples.md`](../examples.md) · full political vision: [`../political-vision.md`](../political-vision.md)
 - **Discussion:** in this RFC's Pull Request. Public repo → **anyone can comment**, no collaborator status needed.
 
+## In plain words
+
+If this reads as dense on a first pass, that's expected — the project is still
+under construction and the framing is still being sharpened.
+
+In short: this documents a **method for composing AI-assisted music** — not just
+throwing prompts at a model. The method works on **three angles you pilot from**:
+
+- 🎼 **musicological** — structure and references (how it's built, what it draws on)
+- 👂 **felt** — what it evokes (what you actually hear)
+- ✊ **political** — why *this* music rather than another
+
+The AI generates; **you steer**, from these three angles. The model holds
+*attributed positions*, not objective truths — except the musicological register,
+which stays falsifiable. Everything below formalizes that.
+
 ## How to comment
 
 - Comment **inline** on the specific point (`P#`), thesis (`T#`), or question (`Q#`) in the *Files changed* tab.
@@ -17,6 +33,9 @@
 - **P1.** The product is **the method** (model-agnostic representation + compiler), not the audio or the prompt. Suno/Udio/MusicGen = interchangeable backends.
 - **P2.** A fusion has **two layers**: sound **and** text. The text fuses too.
 - **P3.** **Three registers**, not to be conflated: 🎼 musicological, 👂 felt, ✊ political.
+  - *Note (felt register):* this layer needs its own **vocabulary** — words to describe
+    what you hear *without* falling back on genre labels. A shared list of such terms is
+    exactly the missing resource for the felt register, and one is being folded in (see `Q3`).
 - **P4.** **Atoms** (the ~600 genres) vs **molecules** (the 360k fusions). Curation at the **atom** level.
 - **P5.** **Attributed positions, not truths** — except the musicological, which is falsifiable.
 - **P6.** **Political vision** — see the six theses below.
@@ -37,9 +56,9 @@
 
 ## Open questions — we want your take (`Q#`)
 
-- **Q1.** 🎼 *(an expert practitioner / a musicologist)* Do the current genre definitions hold? Which to fix first?
+- **Q1.** 🎼 *(an expert practitioner / a musicologist)* Do the current genre definitions hold? Which to fix first? The author considers their **own musicological view too partial** to be trusted alone, and explicitly wants an outside expert eye here.
 - **Q2.** 🎼 Who can hold the **musicologist** role for the objective register? (named gap in the roster)
-- **Q3.** 👂 *(the circle of listeners)* Do the anchor exemplars hold? Others to propose?
+- **Q3.** 👂 *(the circle of listeners)* Do the anchor exemplars hold? Others to propose? What **vocabulary** would let us describe what we hear without leaning on genre categories? (see the felt-register note under `P3`)
 - **Q4.** ✊ *(everyone)* The six theses (T1–T6): right? too much? not enough? Is **self-implication** (T5) tenable, or an alibi?
 - **Q5.** 🛠️ *(a composer / builder)* The **instrument** architecture (not factory) + atoms/molecules: would you build it? how would you détourne it?
 - **Q6.** ✍️ The **text** layer: how far to push the political content of the lyrics before it becomes a sermon?
