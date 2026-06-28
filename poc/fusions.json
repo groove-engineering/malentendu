@@ -45,18 +45,19 @@
     "genre_b": "Footwork",
     "groove_from": {
       "genre": "Footwork",
-      "desc": "160 bpm stuttering triplet kick patterns, chopped vocal stabs, rapid hi-hat rolls"
+      "desc": "160 bpm but stripped and spacious, kick-driven: syncopated kicks slightly off the grid (triplet swing) giving a rolling, hypnotic, tribal groove; sparse claps, one repeated vocal sample, lots of air",
+      "exemplar": {"track": "Calculon", "cue": "~1:00", "note": "passage caractéristique du genre", "validated_by": ["Eric", "Nelly Babillon"]}
     },
     "harmony_from": {
       "genre": "Chant grégorien",
       "desc": "monophonic modal Latin plainchant, no harmony, free-floating sacred melody"
     },
-    "instrumentation": ["male choir plainchant", "808 sub", "chopped vocal samples", "skittering hats"],
-    "production": "stark contrast: wet cathedral reverb on the chant, dry punchy drums underneath",
-    "tempo_feel": "160 bpm footwork, the chant floating half-time over it",
-    "tension": "timeless sacred monody versus hyper-kinetic Chicago footwork; eternity against the stutter",
-    "references": ["Ensemble Organum", "RP Boo", "DJ Rashad"],
-    "avoid": "cheesy trance pads, four-on-the-floor, literal church organ",
+    "instrumentation": ["sparse 808 kick", "handclaps", "single repeated vocal sample", "male choir plainchant"],
+    "production": "minimal, dry, kick-driven groove with lots of space, against wet cathedral reverb on the chant",
+    "tempo_feel": "160 bpm felt as a spacious hypnotic pulse, kicks doing the work, the chant floating freely over the displaced groove",
+    "tension": "timeless monophonic chant riding a stripped, off-grid footwork kick; eternity over a hypnotic tribal pulse",
+    "references": ["Ensemble Organum", "RP Boo", "DJ Rashad", "Traxman"],
+    "avoid": "busy hi-hat rolls, chopped-vocal chaos, density, juke/EDM cliché — footwork is épuré and kick-driven (corr. Eric)",
     "vocal": "Latin plainchant, male choir, reverberant"
   }
 ]

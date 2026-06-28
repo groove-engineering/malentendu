@@ -25,8 +25,19 @@ def load_fusions():
     return json.loads(FUSIONS.read_text(encoding="utf-8"))
 
 
+def exemplars(f):
+    """Exemplaires de reference (proprietes d'atomes de genre), valides par des experts."""
+    out = []
+    for side in ("groove_from", "harmony_from"):
+        ex = f.get(side, {}).get("exemplar")
+        if ex:
+            out.append(ex)
+    return out
+
+
 def compile_suno(f):
     """Representation -> prompt de style Suno (anglais, tags separes par virgules)."""
+    refs = list(f["references"]) + [e["track"] for e in exemplars(f)]
     parts = [
         f"{f['genre_a']} x {f['genre_b']} fusion",
         f["groove_from"]["desc"],
@@ -34,7 +45,7 @@ def compile_suno(f):
         ", ".join(f["instrumentation"]),
         f["production"],
         f["tempo_feel"],
-        "in the spirit of " + ", ".join(f["references"]),
+        "in the spirit of " + ", ".join(refs),
     ]
     if f.get("vocal"):
         parts.append(f["vocal"])
@@ -43,7 +54,7 @@ def compile_suno(f):
 
 def compile_brief(f):
     """Meme representation -> brief humain (autre backend, prouve le decouplage)."""
-    return (
+    brief = (
         f"Fusion {f['genre_a']} x {f['genre_b']}. "
         f"Groove de {f['groove_from']['genre']} : {f['groove_from']['desc']}. "
         f"Harmonie de {f['harmony_from']['genre']} : {f['harmony_from']['desc']}. "
@@ -52,6 +63,14 @@ def compile_brief(f):
         f"Tension a tenir : {f['tension']}. "
         f"A eviter : {f.get('avoid', '-')}."
     )
+    ex = exemplars(f)
+    if ex:
+        ex_str = "; ".join(
+            f"{e['track']} ({e.get('cue', '')}, ref. {', '.join(e.get('validated_by', []))})"
+            for e in ex
+        )
+        brief += f" Exemplaires : {ex_str}."
+    return brief
 
 
 def render_all():
