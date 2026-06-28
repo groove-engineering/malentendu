@@ -1,5 +1,3 @@
-🇬🇧 **English** · [🇫🇷 Français](political-vision.fr.md)
-
 # The political vision of Le Malentendu
 
 > Register 3. The engine room, not the lyrics — enacted in the crossings, the license, the forgery. This is the full text; [`method.md`](method.md) §6 carries the condensed form.

@@ -1,5 +1,3 @@
-🇬🇧 **English** · [🇫🇷 Français](README.fr.md)
-
 # PoC — the method, not the model
 
 Principle: **the product is the method**, not the audio or the Suno prompt.

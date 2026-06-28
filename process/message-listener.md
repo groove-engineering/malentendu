@@ -1,19 +1,19 @@
 # Message listener — template
 
-> Ce message est envoyé à chaque auditeur via WhatsApp / iMessage / Signal.
-> Personnalise selon le destinataire. Supprimer les `[crochets]`.
+> This message is sent to each listener via WhatsApp / iMessage / Signal.
+> Personalize per recipient. Remove the `[brackets]`.
 
 ---
 
-🎵 **[Titre]** — [Genre A] × [Genre B]
+🎵 **[Title]** — [Genre A] × [Genre B]
 
-[lien SoundCloud]
+[SoundCloud link]
 
-Qu'est-ce que tu entends ? Qu'est-ce que ça te fait ?
-Vocal bienvenu.
+What do you hear? What does it do to you?
+Voice notes welcome.
 
 ---
 
-*Optionnel selon l'interlocuteur — ajouter si pertinent :*
+*Optional, depending on the recipient — add if relevant:*
 
-> Est-ce que [Genre A] sonne juste pour toi ?
+> Does [Genre A] ring true to you?

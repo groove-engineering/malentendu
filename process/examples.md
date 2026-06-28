@@ -1,5 +1,3 @@
-🇬🇧 **English** · [🇫🇷 Français](examples.fr.md)
-
 # Le Malentendu — illustrated: diagrams & examples
 
 Companion to [`method.md`](method.md) (the spec) and

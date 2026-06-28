@@ -1,3 +1,3 @@
 # RFC
 
-Les RFC sont discutées dans les **Pull Requests** (onglet *Pull requests*).
+RFCs are discussed in **Pull Requests** (the *Pull requests* tab).
