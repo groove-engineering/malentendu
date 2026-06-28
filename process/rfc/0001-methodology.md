@@ -1,5 +1,3 @@
-🇬🇧 **English** · [🇫🇷 Français](0001-methodology.fr.md)
-
 # RFC 0001 — Le Malentendu methodology
 
 - **Status:** OPEN FOR COMMENTS (draft)

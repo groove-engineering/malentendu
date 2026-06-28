@@ -1,32 +1,32 @@
-# Morceau MR-XXX — [Titre]
+# Track MR-XXX — [Title]
 
-- **Fusion :** [Genre A] × [Genre B]
-- **Backend :** Suno / Udio
-- **Écouter :** [lien SoundCloud](https://soundcloud.com/malentendu-records/[slug])
-- **Méthode :** [methode.md @ commit](../process/methode.md) — version [X]
-
----
-
-## Points à commenter
-
-**P1.** 🎼 [Observation musicologique — ex : "Le kick de footwork est présent mais le tempo est à 150 au lieu de 160-170. Le step est trop régulier."]
-
-**P2.** 👂 [Exemplaire-ancre — ex : "Ce morceau vise l'espace de Calculon × Amália Rodrigues." L'exemplaire-ancre est le morceau de référence qui "ancre" le ressenti attendu de la fusion.]
-
-**P3.** ✊ [Position politique — ex : "Les paroles défendent la créolisation en nommant les deux héritages sans les lisser. L'auto-implication est présente : le 'je' est complice."]
-
-## Questions ouvertes
-
-**Q1.** 🎼 [Genre A] sonne-t-il juste ? Qu'est-ce qui manque ou cloche dans la définition actuelle de l'atome ?
-
-**Q2.** 👂 L'exemplaire-ancre tient-il ? En proposes-tu un autre ?
-
-**Q3.** ✊ La position est-elle lisible ? Trop appuyée ? Pas assez ?
+- **Fusion:** [Genre A] × [Genre B]
+- **Backend:** Suno / Udio
+- **Listen:** [SoundCloud link](https://soundcloud.com/malentendu-records/[slug])
+- **Method:** [method.md @ commit](../process/method.md) — version [X]
 
 ---
 
-*Pour commenter : réponds dans ce fil (onglet Conversation). Tu peux écrire ou glisser un fichier audio (.m4a, .mp3) dans la boîte.*
+## Points to comment on
 
-*Trois registres distincts : 🎼 musicologie (un fait, vérifiable) · 👂 ressenti (subjectif, tenu) · ✊ politique (valeurs). Le désaccord est le sujet.*
+**P1.** 🎼 [Musicological observation — e.g. "The footwork kick is there but the tempo sits at 150 instead of 160-170. The step is too regular."]
+
+**P2.** 👂 [Anchor exemplar — e.g. "This track aims for the space of Calculon × Amália Rodrigues." The anchor exemplar is the reference track that "anchors" the expected feel of the fusion.]
+
+**P3.** ✊ [Political stance — e.g. "The lyrics defend creolization by naming both heritages without smoothing them over. Self-implication is present: the 'I' is complicit."]
+
+## Open questions
+
+**Q1.** 🎼 Does [Genre A] ring true? What's missing or off in the current definition of the atom?
+
+**Q2.** 👂 Does the anchor exemplar hold? Would you propose another?
+
+**Q3.** ✊ Is the stance legible? Too heavy-handed? Not enough?
+
+---
+
+*To comment: reply in this thread (Conversation tab). You can write or drop an audio file (.m4a, .mp3) into the box.*
+
+*Three distinct registers: 🎼 musicology (a fact, verifiable) · 👂 felt response (subjective, held) · ✊ political (values). Disagreement is the subject.*
 
 *non = malentendu*

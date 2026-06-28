@@ -1,5 +1,3 @@
-🇬🇧 **English** · [🇫🇷 Français](misunderstandings.fr.md)
-
 # Malentendu Records — catalogue of found misunderstandings
 
 Results the engine produced **without us aiming for them** — kept because the

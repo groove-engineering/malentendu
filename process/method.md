@@ -1,5 +1,3 @@
-🇬🇧 **English** · [🇫🇷 Français](method.fr.md)
-
 # The Method — representation model
 
 > **Living** spec. This is where we refine the model; the PoC ([`../poc/`](../poc/))

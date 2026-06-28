@@ -1,5 +1,3 @@
-🇬🇧 **English** · [🇫🇷 Français](personas.fr.md)
-
 # Personas & decision process
 
 > The explicit method behind the project's decisions. We expose it, like the rest

@@ -1,5 +1,3 @@
-🇬🇧 **English** · [🇫🇷 Français](README.fr.md)
-
 # Le Malentendu
 
 > "Music that never existed."
@@ -41,7 +39,6 @@ python3 poc/compile.py --check  # self-check
 
 ## Languages
 
-**English is canonical** (`*.md`); every document has a French sibling (`*.fr.md`). 100% bilingual.
 
 ---
 

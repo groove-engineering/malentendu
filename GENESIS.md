@@ -1,5 +1,3 @@
-🇬🇧 **English** · [🇫🇷 Français](GENESIS.fr.md)
-
 # Genesis — the process, in the open
 
 > **Why this document.** The making-of is part of the work. This project wasn't

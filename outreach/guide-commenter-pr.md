@@ -1,27 +1,27 @@
-# Donner ton avis sur *Le Malentendu* — guide express (5 min, zéro technique)
+# Give your feedback on *Le Malentendu* — quick guide (5 min, zero technical skill)
 
-Salut,
+Hi,
 
-On met la **méthodologie** du projet en débat ouvert, et ton avis compte vraiment.
-Voici comment le déposer — c'est plus simple que ça en a l'air.
+We're putting the project's **methodology** up for open debate, and your input genuinely matters.
+Here's how to leave it — it's simpler than it looks.
 
-## 1. Aie un compte GitHub
-C'est tout ce qu'il faut — le dépôt est **public**, aucune invitation nécessaire.
-Pas de compte ? Crée-en un gratuit en 2 minutes sur **github.com** (un email, un mot de passe).
+## 1. Have a GitHub account
+That's all you need — the repo is **public**, no invitation required.
+No account? Create a free one in 2 minutes at **github.com** (an email, a password).
 
-## 2. Ouvre la discussion
-Clique : **https://github.com/trivoallan/groove-engineering/pull/1**
-Tu arrives sur la « Pull Request » : c'est notre **salle de discussion**.
-Pour aller droit là où on commente en ligne : **https://github.com/trivoallan/groove-engineering/pull/1/files**
+## 2. Open the discussion
+Click: **https://github.com/trivoallan/groove-engineering/pull/1**
+You land on the "Pull Request": that's our **discussion room**.
+To go straight to where we comment inline: **https://github.com/trivoallan/groove-engineering/pull/1/files**
 
-## 3. Commente
-Deux façons :
-- **Un avis général** → onglet **Conversation**, la boîte tout en bas, tu écris, bouton **Comment**.
-- **Réagir à un point précis** *(le mieux)* → onglet **Files changed**, survole la ligne qui t'intéresse, clique le petit **＋** bleu, écris, **Add single comment**. Ton mot reste accroché au point exact.
+## 3. Comment
+Two ways:
+- **A general opinion** → **Conversation** tab, the box at the very bottom, write, hit the **Comment** button.
+- **React to a specific point** *(best)* → **Files changed** tab, hover the line you care about, click the small blue **＋**, write, **Add single comment**. Your note stays pinned to the exact spot.
 
-## Trois conventions (légères)
-- Commence par ton **registre** : 🎼 musicologie (un fait) · 👂 ressenti (ce que tu ressens) · ✊ politique (les valeurs).
-- Renvoie au repère : « P3 », « Q1 »… (les points et questions sont numérotés dans le document).
-- **Le désaccord est le sujet, pas un problème.** *non = malentendu.*
+## Three light conventions
+- Start with your **register**: 🎼 musicology (a fact) · 👂 felt response (what you feel) · ✊ political (values).
+- Point to the marker: "P3", "Q1"… (points and questions are numbered in the document).
+- **Disagreement is the subject, not a problem.** *non = malentendu.*
 
-Pas besoin de tout lire. Va droit aux **questions Q1–Q6** qui te parlent. Merci d'y mettre ton oreille.
+No need to read everything. Go straight to the **questions Q1–Q6** that speak to you. Thanks for lending your ear.
