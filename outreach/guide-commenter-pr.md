@@ -12,6 +12,7 @@ Pas de compte ? Crée-en un gratuit en 2 minutes sur **github.com** (un email, u
 ## 2. Ouvre la discussion
 Clique : **https://github.com/trivoallan/le-malentendu/pull/1**
 Tu arrives sur la « Pull Request » : c'est notre **salle de discussion**.
+Pour aller droit là où on commente en ligne : **https://github.com/trivoallan/le-malentendu/pull/1/files**
 
 ## 3. Commente
 Deux façons :
