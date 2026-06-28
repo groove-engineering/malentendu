@@ -19,6 +19,7 @@ Free, under **AGPLv3**.
 | [`process/method.md`](process/method.md) | the spec: 2 layers (sound + text), 3 registers (musicological / felt / political), atoms vs molecules, political vision |
 | [`process/political-vision.md`](process/political-vision.md) | the political vision in full — six theses: authenticity, commons, creolization, opacity, self-implication, meaning |
 | [`process/examples.md`](process/examples.md) | diagrams + 3 real worked examples |
+| [`process/comparison.md`](process/comparison.md) | why the method beats a raw prompt — features + side-by-side |
 | [`process/rfc/`](process/rfc/) | the RFCs — the method put up for debate. **Discussion happens in the Pull Requests.** |
 | [`poc/`](poc/) | the proof: `python3 poc/compile.py` compiles a fusion into a Suno prompt **and** a human brief (two backends, one source) |
 | [`catalogue/misunderstandings.md`](catalogue/misunderstandings.md) | the *found misunderstandings* — the happy accidents we keep |
