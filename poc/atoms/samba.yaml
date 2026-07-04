@@ -1,0 +1,57 @@
+# Samba — genre atom. Status: proposed. Musicological claims sourced and verified
+# against UNESCO ICH, English Wikipedia articles "Samba", "Samba de roda", and
+# "Pelo Telefone", and Encyclopedia.com "Samba" (fetched and read July 2026).
+# The agent fills `musicological` only; the human-owned layers (constraints /
+# felt / political / exemplars) are left empty.
+atom: samba
+status: proposed
+
+musicological:
+  - claim: "Samba de Roda, an ancestor form, developed in the Recôncavo region of Bahia during the seventeenth century, drawing on the dances and cultural traditions of enslaved Africans and elements of Portuguese culture such as language, poetry, and certain musical instruments"
+    source:
+      citation: "UNESCO ICH, Representative List — Samba de Roda of the Recôncavo of Bahia (inscribed 2008, originally proclaimed 2005)"
+      locator: "https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101"
+  - claim: "the word 'samba' likely derives from Bantu roots, specifically the Quimbundo (Angolan) word 'semba', which referred to a dance involving the umbigada pelvic-thrust movement; the earliest printed reference to 'samba' dates to 1838 in Pernambuco"
+    source:
+      citation: "Encyclopedia.com, 'Samba'"
+      locator: "https://www.encyclopedia.com/literature-and-arts/performing-arts/music-history/samba"
+  - claim: "evolved from earlier Afro-Brazilian dance traditions, primarily the lundu (performed by mixed-race free people from the late eighteenth century onward) and the batuque (celebrations among enslaved populations), both featuring circular arrangements with hand clapping and sung refrains"
+    source:
+      citation: "Encyclopedia.com, 'Samba'"
+      locator: "https://www.encyclopedia.com/literature-and-arts/performing-arts/music-history/samba"
+  - claim: "modern urban samba was structured as a musical genre in the late 1920s from the neighborhood of Estácio in Rio de Janeiro, breaking from the earlier style played at the gatherings of the Bahian aunts (tias baianas)"
+    source:
+      citation: "Wikipedia (EN), 'Samba', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Samba"
+  - claim: "predominantly in 2/4 time with the heaviest accent on the second beat"
+    source:
+      citation: "Encyclopedia.com, 'Samba'"
+      locator: "https://www.encyclopedia.com/literature-and-arts/performing-arts/music-history/samba"
+  - claim: "features pronounced syncopation, a stanza-and-refrain structure, responsorial (call-and-response) singing, and many interlocking rhythmic parts"
+    source:
+      citation: "Encyclopedia.com, 'Samba'"
+      locator: "https://www.encyclopedia.com/literature-and-arts/performing-arts/music-history/samba"
+  - claim: "core percussion instruments are the pandeiro, cuíca, tamborim, ganzá (shaker), and surdo (bass drum)"
+    source:
+      citation: "Wikipedia (EN), 'Samba', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Samba"
+  - claim: "melodic accompaniment typically features acoustic guitar and cavaquinho (a small four-string guitar)"
+    source:
+      citation: "Wikipedia (EN), 'Samba', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Samba"
+  - claim: "a samba percussion ensemble is called a bateria; the first carnival association to use this organized percussion unit was the samba school Deixa Falar, founded in the Estácio neighborhood in 1928"
+    source:
+      citation: "Wikipedia (EN), 'Samba', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Samba"
+  - claim: "'Pelo Telefone', attributed to Donga (Ernesto dos Santos) and journalist Mauro de Almeida, was registered at Brazil's National Library on 27 November 1916 and released as a 78 RPM recording on 21 January 1917; it is considered the first samba song to be recorded in Brazil"
+    source:
+      citation: "Wikipedia (EN), 'Pelo Telefone', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Pelo_Telefone"
+  - claim: "samba was heavily criminalized by the Brazilian government in its early history due to its association with Afro-Brazilian drumming and religions; to avoid police harassment and gain social legitimacy, Estácio's musicians organized themselves into 'samba schools' (escolas de samba)"
+    source:
+      citation: "Wikipedia (EN), 'Samba', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Samba"
+  - claim: "Samba de Roda of the Recôncavo of Bahia was inscribed by UNESCO on the Representative List of the Intangible Cultural Heritage of Humanity in 2008 (originally proclaimed in 2005)"
+    source:
+      citation: "UNESCO ICH, Representative List — Samba de Roda of the Recôncavo of Bahia"
+      locator: "https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101"
