@@ -14,6 +14,7 @@ A **crossing** is a fusion of two atoms. It carries the artistic tension, exclus
 | `atoms` | The two genres being fused |
 | `frame_from` | Which atom dominates the groove |
 | `tension` | The artistic intent that must survive |
+| `intention` | The maker's declared project for this fusion (register 4, held) |
 | `avoid` | What to exclude (derived from past failures) |
 | `creolizes` | How it creates fertile friction (not flattening) |
 | `opacity_preserved` | How it preserves irreducibility |

@@ -14,6 +14,7 @@ Un **croisement** est une fusion de deux atomes. Il porte la tension artistique,
 | `atoms` | Les deux genres fusionnés |
 | `frame_from` | Quel atome domine le groove |
 | `tension` | L'intention artistique qui doit survivre |
+| `intention` | Le projet déclaré du créateur pour cette fusion (registre 4, tenu) |
 | `avoid` | Ce qu'il faut exclure (dérivé des échecs passés) |
 | `creolizes` | Comment ça crée de la friction fertile (pas du lissage) |
 | `opacity_preserved` | Comment ça préserve l'irréductibilité |
