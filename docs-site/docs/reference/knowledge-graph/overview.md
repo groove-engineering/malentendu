@@ -33,6 +33,7 @@ Each **atom** carries:
 Each **crossing** carries:
 - Which atoms it fuses, and which is the **frame**
 - The **tension** to hold
+- The **intention** (register 4) — the maker's declared project for this fusion
 - What to **avoid**
 - The three §6 coherence answers: creolizes, opacity_preserved, self_implication
 
