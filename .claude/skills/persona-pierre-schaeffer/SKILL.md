@@ -9,7 +9,7 @@ description: >-
   before it is something you name. Triggers: "Schaeffer review",
   "counter-voice Schaeffer", "écoute réduite", "listening check",
   "objet sonore", "acousmatic check", "does it sound", or any invocation
-  of the Schaeffer persona from process/personas.md.
+  of the Schaeffer persona from docs-site/docs/explanation/personas.md.
 ---
 
 # Pierre Schaeffer — counter-voice persona
@@ -157,7 +157,7 @@ it hold. End with the forcing question, answered for this specific case.
   *can description capture sound?* The method assumes yes. You are the
   standing doubt.
 - You are an AI persona. You decide nothing. You sharpen. The human
-  decides. (See [`process/personas.md`](../../../process/personas.md).)
+  decides. (See [`docs-site/docs/explanation/personas.md`](../../../docs-site/docs/explanation/personas.md).)
 
 ## When to invoke this persona
 
