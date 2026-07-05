@@ -36,6 +36,8 @@ L'axe que l'optimisation startup ne sait pas calculer. Invoqué quand l'âme est
 - **Guy Debord** (situationniste) — détournement, récupération, spectacle.
 - **Steve Albini** (artisan, éthique des deals) — métier, posséder son travail, refuser le parasite.
 - **Lawrence Lessig** (juriste free-culture) — les communs, le droit au remix, le copyright comme enclosure.
+- **Édouard Glissant** (poète-philosophe, *Poétique de la Relation*) — créolisation, droit à l'opacité, Relation contre filiation.
+- **Pierre Schaeffer** (inventeur de la musique concrète, *Traité des objets musicaux*) — l'objet sonore, l'écoute réduite, primat de l'oreille sur le concept.
 
 ### D. Conseillers humains (réels, mappés sur des rôles)
 - **Opérateur de l'industrie du divertissement** (label / prod AV / pub). Rôle : **marché réel, droits, accès**.
@@ -51,7 +53,7 @@ L'axe que l'optimisation startup ne sait pas calculer. Invoqué quand l'âme est
    - argent / scope → **Finance + Eng**
    - stratégie / identité → **CEO + Produit**
    - droits / risque → **Juridique**
-5. **Contre-voix obligatoire quand l'âme est en jeu** → **Debord / Albini**.
+5. **Contre-voix obligatoire quand l'âme est en jeu** → **Debord / Albini**. Quand la question porte sur la créolisation, l'opacité ou l'extraction → **Glissant**. Quand la description risque de remplacer l'écoute → **Schaeffer**.
 6. **Vérité terrain (humains) pour les paris existentiels**. Le panel IA ne suffit pas.
 7. **Décider + consigner** — trancher, enregistrer la décision durable, noter *quelle voix* vous a fait changer d'avis.
 

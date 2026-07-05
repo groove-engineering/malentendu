@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: atom-sourcer
 description: >-
   Research a music genre and produce a sourced, schema-valid genre atom
@@ -14,8 +15,8 @@ description: >-
 # Atom sourcer
 
 A genre **atom** is the unit of the groove-engineer method: cure the atom once and
-you repair all of its fusions (see [`process/rfc/atoms-knowledge-graph.md`](../../../process/rfc/atoms-knowledge-graph.md)
-and [`process/method.md`](../../../process/method.md)). This skill produces one
+you repair all of its fusions (see [`docs-site/docs/reference/knowledge-graph/overview.md`](../../../docs-site/docs/reference/knowledge-graph/overview.md)
+and [`docs-site/docs/explanation/method.md`](../../../docs-site/docs/explanation/method.md)). This skill produces one
 atom file — `poc/atoms/<genre>.yaml` — by researching the genre and writing down
 **musicological facts that each carry a real, checkable source.**
 
