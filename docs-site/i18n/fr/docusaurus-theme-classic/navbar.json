@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Le Malentendu",
+    "description": "The title in the navbar"
+  },
+  "item.label.The Method": {
+    "message": "La Méthode",
+    "description": "Navbar item with label The Method"
+  },
+  "item.label.Knowledge Graph": {
+    "message": "Graphe de connaissances",
+    "description": "Navbar item with label Knowledge Graph"
+  },
+  "item.label.Contribute": {
+    "message": "Contribuer",
+    "description": "Navbar item with label Contribute"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
