@@ -13,13 +13,13 @@ That's all you need — the repo is **public**, no invitation required. No accou
 
 ## 2. Open the discussion
 
-Go to the [Pull Requests](https://github.com/trivoallan/groove-engineering/pulls) on GitHub. You land on the "Pull Request": that's our **discussion room**.
+Go to the [Discussions](https://github.com/trivoallan/groove-engineering/discussions) on GitHub. That's our **discussion room** — open to everyone, no code required.
 
 ## 3. Comment
 
 Two ways:
-- **A general opinion** → **Conversation** tab, the box at the very bottom, write, hit the **Comment** button.
-- **React to a specific point** *(best)* → **Files changed** tab, hover the line you care about, click the small blue **＋**, write, **Add single comment**.
+- **A general opinion** → open an existing discussion (or start a new one), write, hit **Comment**.
+- **React to a specific point** *(best)* → reply to the message that speaks to you, quoting the passage you're responding to.
 
 ## Three light conventions
 
