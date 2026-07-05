@@ -55,7 +55,7 @@ Ce sont des stances IA, pas des simulations de personnes. Elles affûtent ; l'hu
 
 ## Participer
 
-Lisez le RFC ouvert et **commentez sur la Pull Request**. Tagguez votre registre :
+Rejoignez les [Discussions](https://github.com/trivoallan/groove-engineering/discussions) sur GitHub. Tagguez votre registre :
 🎼 musicologique (un fait) · 👂 ressenti (subjectif) · ✊ politique (valeurs).
 Le désaccord est le sujet.
 

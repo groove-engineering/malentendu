@@ -55,7 +55,7 @@ They are AI stances, not simulations of people. They sharpen; the human decides.
 
 ## Take part
 
-Read the open RFC and **comment on the Pull Request**. Tag your register:
+Join the [Discussions](https://github.com/trivoallan/groove-engineering/discussions) on GitHub. Tag your register:
 🎼 musicological (a fact) · 👂 felt (subjective) · ✊ political (values).
 Disagreement is the point.
 

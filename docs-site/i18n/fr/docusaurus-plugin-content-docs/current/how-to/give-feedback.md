@@ -13,13 +13,13 @@ C'est tout ce qu'il faut — le dépôt est **public**, pas d'invitation nécess
 
 ## 2. Ouvrir la discussion
 
-Allez sur les [Pull Requests](https://github.com/trivoallan/groove-engineering/pulls) sur GitHub. Vous arrivez sur la « Pull Request » : c'est notre **salle de discussion**.
+Allez sur les [Discussions](https://github.com/trivoallan/groove-engineering/discussions) sur GitHub. C'est notre **salle de discussion** — ouverte à tous, pas besoin de toucher au code.
 
 ## 3. Commenter
 
 Deux façons :
-- **Un avis général** → onglet **Conversation**, la boîte tout en bas, écrire, cliquer **Comment**.
-- **Réagir à un point précis** *(meilleur)* → onglet **Files changed**, survoler la ligne qui vous intéresse, cliquer le petit **＋** bleu, écrire, **Add single comment**.
+- **Un avis général** → ouvrir une discussion existante (ou en créer une nouvelle), écrire, cliquer **Comment**.
+- **Réagir à un point précis** *(meilleur)* → répondre au message qui vous parle, en citant le passage auquel vous réagissez.
 
 ## Trois conventions légères
 
