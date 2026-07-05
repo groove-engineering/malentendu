@@ -11,5 +11,5 @@ Free, under **AGPLv3**.
 
 ## Documentation
 
-**[[groove-engineering.github.io/malentendu](https://groove-engineering.github.io/malentendu/)](https://groove-engineering.github.io/malentendu/)** — also available [in French](https://groove-engineering.github.io/malentendu/fr/).
+**[groove-engineering.github.io/malentendu](https://groove-engineering.github.io/malentendu/)** — also available [in French](https://groove-engineering.github.io/malentendu/fr/).
 
