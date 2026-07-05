@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Diagrams & Examples
+title: Examples
 ---
 
 # Le Malentendu — illustrated: diagrams & examples

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 slug: /explanation/intro
-title: Introduction
+title: Le Malentendu
 ---
 
 # Le Malentendu

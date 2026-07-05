@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Personas & Decision Process
+title: Counter-voices
 ---
 
 # Personas & decision process

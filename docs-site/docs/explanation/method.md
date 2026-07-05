@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: The Method — representation model
+title: The Method
 ---
 
 # The Method — representation model

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: "La Méthode — modèle de représentation"
+title: La Méthode
 ---
 
 # La Méthode — modèle de représentation
