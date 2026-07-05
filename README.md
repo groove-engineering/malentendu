@@ -11,5 +11,5 @@ Free, under **AGPLv3**.
 
 ## Documentation
 
-**[trivoallan.github.io/groove-engineering](https://trivoallan.github.io/groove-engineering/)** — also available [in French](https://trivoallan.github.io/groove-engineering/fr/).
+**[[groove-engineering.github.io/malentendu](https://groove-engineering.github.io/malentendu/)](https://groove-engineering.github.io/malentendu/)** — also available [in French](https://groove-engineering.github.io/malentendu/fr/).
 
