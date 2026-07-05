@@ -1,0 +1,80 @@
+# Noise rock — genre atom. Status: proposed. Musicological claims sourced and
+# verified against Wikipedia (EN) articles for Noise rock, White Light/White Heat,
+# No wave, Sonic Youth, Big Black, Swans, Touch and Go Records, Amphetamine
+# Reptile Records, and In Utero; plus The Sound Atlas genre guide. Each locator
+# was fetched and confirmed to support the claim. The agent fills `musicological`
+# only; the human-owned layers (constraints / felt / political / exemplars) are
+# left empty.
+atom: noise-rock
+status: proposed
+
+musicological:
+  - claim: "noise rock emerged in the late 1970s and early 1980s as a subgenre of rock music"
+    source:
+      citation: "Wikipedia (EN), 'Noise rock', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Noise_rock"
+
+  - claim: "developed from the intersection of no wave and punk in early 1980s New York City, rooted in the downtown art scene that had produced no wave"
+    source:
+      citation: "The Sound Atlas, 'Noise Rock', accessed July 2026"
+      locator: "https://thesoundatlas.org/discover/noise-rock"
+
+  - claim: "merges extreme levels of guitar distortion, electronic effects, atonality, improvisation, and white noise with traditional rock instrumentation"
+    source:
+      citation: "Wikipedia (EN), 'Noise rock', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Noise_rock"
+
+  - claim: "treats feedback, distortion, and abrasive sound as primary musical materials rather than accidents to be avoided"
+    source:
+      citation: "The Sound Atlas, 'Noise Rock', accessed July 2026"
+      locator: "https://thesoundatlas.org/discover/noise-rock"
+
+  - claim: "the Velvet Underground's White Light/White Heat (1968) became a prototype for noise rock through its extensive use of distortion"
+    source:
+      citation: "Wikipedia (EN), 'White Light/White Heat', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/White_Light/White_Heat"
+
+  - claim: "the No New York compilation (1978), produced by Brian Eno, was an important document of the no wave scene from which pioneering noise rock bands later emerged"
+    source:
+      citation: "Wikipedia (EN), 'No wave', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/No_wave"
+
+  - claim: "Sonic Youth and Swans, both considered pioneering bands in the development of noise rock, were originally inspired by and members of the no wave scene in New York"
+    source:
+      citation: "Wikipedia (EN), 'No wave', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/No_wave"
+
+  - claim: "Sonic Youth relied on a wide variety of unorthodox guitar tunings and prepared guitars with objects like drumsticks and screwdrivers to alter timbre"
+    source:
+      citation: "Wikipedia (EN), 'Sonic Youth', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Sonic_Youth"
+
+  - claim: "Big Black, founded by Steve Albini in 1981 in Evanston, Illinois, was characterized by distinctively clanky guitars and the use of a Roland TR-606 drum machine instead of a human drummer"
+    source:
+      citation: "Wikipedia (EN), 'Big Black', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Big_Black"
+
+  - claim: "Swans, formed by Michael Gira in 1981 in New York City, emerged from the no wave scene and contributed to both industrial music and noise rock"
+    source:
+      citation: "Wikipedia (EN), 'Swans (band)', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Swans_(band)"
+
+  - claim: "music critic Robert Christgau coined the term 'pigfuck' in the early 1980s to describe Sonic Youth and related post-hardcore bands"
+    source:
+      citation: "Wikipedia (EN), 'Noise rock', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Noise_rock"
+
+  - claim: "Touch and Go Records (founded 1981, Chicago) released seminal noise rock acts including Big Black, the Butthole Surfers, and The Jesus Lizard"
+    source:
+      citation: "Wikipedia (EN), 'Touch and Go Records', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Touch_and_Go_Records"
+
+  - claim: "Amphetamine Reptile Records, founded in 1986 by Tom Hazelmyer, specializes in noise rock"
+    source:
+      citation: "Wikipedia (EN), 'Amphetamine Reptile Records', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Amphetamine_Reptile_Records"
+
+  - claim: "Nirvana hired Steve Albini, the former frontman of noise rock band Big Black, to produce In Utero (1993), bringing noise rock aesthetics into mainstream alternative rock"
+    source:
+      citation: "Wikipedia (EN), 'In Utero (album)', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/In_Utero_(album)"
