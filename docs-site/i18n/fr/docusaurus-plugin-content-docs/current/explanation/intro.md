@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /intro
+slug: /explanation/intro
 title: Introduction
 ---
 
@@ -17,12 +17,12 @@ Libre, sous **AGPLv3**.
 | | |
 |---|---|
 | [Genèse](genesis) | Comment le projet est né, à découvert |
-| [La Méthode](method/core) | La spec : 2 couches (son + texte), 3 registres (musicologique / ressenti / politique), atomes vs molécules |
-| [Vision politique](method/political-vision) | Six thèses : authenticité, communs, créolisation, opacité, auto-implication, sens |
-| [Exemples](method/examples) | Diagrammes + 3 exemples concrets |
-| [Comparaison](method/comparison) | Pourquoi la méthode bat un prompt brut |
-| [Graphe de connaissances](knowledge-graph/overview) | Les atomes et croisements — navigables |
-| [Catalogue](catalogue/misunderstandings) | Les *malentendus trouvés* — les beaux accidents qu'on garde |
+| [La Méthode](method) | La spec : 2 couches (son + texte), 3 registres (musicologique / ressenti / politique), atomes vs molécules |
+| [Vision politique](political-vision) | Six thèses : authenticité, communs, créolisation, opacité, auto-implication, sens |
+| [Exemples](examples) | Diagrammes + 3 exemples concrets |
+| [Comparaison](comparison) | Pourquoi la méthode bat un prompt brut |
+| [Graphe de connaissances](/docs/reference/knowledge-graph/overview) | Les atomes et croisements — navigables |
+| [Catalogue](/docs/reference/catalogue) | Les *malentendus trouvés* — les beaux accidents qu'on garde |
 
 ## Le principe fondateur
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /intro
+slug: /explanation/intro
 title: Introduction
 ---
 
@@ -17,12 +17,12 @@ Free, under **AGPLv3**.
 | | |
 |---|---|
 | [Genesis](genesis) | How the project was born, in the open |
-| [The Method](method/core) | The spec: 2 layers (sound + text), 3 registers (musicological / felt / political), atoms vs molecules |
-| [Political Vision](method/political-vision) | Six theses: authenticity, commons, creolization, opacity, self-implication, meaning |
-| [Examples](method/examples) | Diagrams + 3 real worked examples |
-| [Comparison](method/comparison) | Why the method beats a raw prompt |
-| [Knowledge Graph](knowledge-graph/overview) | The atoms and crossings — navigable |
-| [Catalogue](catalogue/misunderstandings) | The *found misunderstandings* — beautiful accidents we keep |
+| [The Method](method) | The spec: 2 layers (sound + text), 3 registers (musicological / felt / political), atoms vs molecules |
+| [Political Vision](political-vision) | Six theses: authenticity, commons, creolization, opacity, self-implication, meaning |
+| [Examples](examples) | Diagrams + 3 real worked examples |
+| [Comparison](comparison) | Why the method beats a raw prompt |
+| [Knowledge Graph](/docs/reference/knowledge-graph/overview) | The atoms and crossings — navigable |
+| [Catalogue](/docs/reference/catalogue) | The *found misunderstandings* — beautiful accidents we keep |
 
 ## The founding principle
 

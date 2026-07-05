@@ -18,11 +18,11 @@ Disponible en anglais et en français.
 
 | | |
 |---|---|
-| [La Méthode](https://trivoallan.github.io/groove-engineering/fr/docs/method/core) | La spec : 2 couches (son + texte), 3 registres (musicologique / ressenti / politique), atomes vs molécules |
-| [Vision politique](https://trivoallan.github.io/groove-engineering/fr/docs/method/political-vision) | Six thèses : authenticité, communs, créolisation, opacité, auto-implication, sens |
-| [Exemples](https://trivoallan.github.io/groove-engineering/fr/docs/method/examples) | Diagrammes + 3 exemples concrets |
-| [Graphe de connaissances](https://trivoallan.github.io/groove-engineering/fr/docs/knowledge-graph/overview) | Atomes et croisements — navigables |
-| [Catalogue](https://trivoallan.github.io/groove-engineering/fr/docs/catalogue/misunderstandings) | Les *malentendus trouvés* — les beaux accidents qu'on garde |
+| [La Méthode](https://trivoallan.github.io/groove-engineering/fr/docs/explanation/method) | La spec : 2 couches (son + texte), 3 registres (musicologique / ressenti / politique), atomes vs molécules |
+| [Vision politique](https://trivoallan.github.io/groove-engineering/fr/docs/explanation/political-vision) | Six thèses : authenticité, communs, créolisation, opacité, auto-implication, sens |
+| [Exemples](https://trivoallan.github.io/groove-engineering/fr/docs/explanation/examples) | Diagrammes + 3 exemples concrets |
+| [Graphe de connaissances](https://trivoallan.github.io/groove-engineering/fr/docs/reference/knowledge-graph/overview) | Atomes et croisements — navigables |
+| [Catalogue](https://trivoallan.github.io/groove-engineering/fr/docs/reference/catalogue) | Les *malentendus trouvés* — les beaux accidents qu'on garde |
 
 ## Ce dépôt
 

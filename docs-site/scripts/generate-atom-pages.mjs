@@ -5,8 +5,8 @@ import yaml from 'js-yaml';
 const ROOT = join(import.meta.dirname, '..', '..');
 const ATOMS_DIR = join(ROOT, 'poc', 'atoms');
 const CROSSINGS_DIR = join(ROOT, 'poc', 'crossings');
-const OUT_ATOMS = join(import.meta.dirname, '..', 'docs', 'knowledge-graph', 'atoms');
-const OUT_CROSSINGS = join(import.meta.dirname, '..', 'docs', 'knowledge-graph', 'crossings');
+const OUT_ATOMS = join(import.meta.dirname, '..', 'docs', 'reference', 'knowledge-graph', 'atoms');
+const OUT_CROSSINGS = join(import.meta.dirname, '..', 'docs', 'reference', 'knowledge-graph', 'crossings');
 
 if (!existsSync(OUT_ATOMS)) mkdirSync(OUT_ATOMS, { recursive: true });
 if (!existsSync(OUT_CROSSINGS)) mkdirSync(OUT_CROSSINGS, { recursive: true });

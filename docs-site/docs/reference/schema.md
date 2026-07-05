@@ -5,7 +5,7 @@ title: "RFC: Atoms Knowledge Graph"
 
 # RFC — Atoms as a sourced knowledge graph
 
-> Design doc. A proposal to discuss. See: [The Method](../method/core) (§3 attribution, §4 atoms & molecules, §8 curator roster).
+> Design doc. A proposal to discuss. See: [The Method](/docs/explanation/method) (§3 attribution, §4 atoms & molecules, §8 curator roster).
 
 ## Problem
 
