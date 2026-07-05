@@ -3,17 +3,17 @@
     "message": "Le Malentendu",
     "description": "The title in the navbar"
   },
-  "item.label.The Method": {
-    "message": "La Méthode",
-    "description": "Navbar item with label The Method"
+  "item.label.Explanation": {
+    "message": "Explication",
+    "description": "Navbar item with label Explanation"
   },
-  "item.label.Knowledge Graph": {
-    "message": "Graphe de connaissances",
-    "description": "Navbar item with label Knowledge Graph"
+  "item.label.Reference": {
+    "message": "Référence",
+    "description": "Navbar item with label Reference"
   },
-  "item.label.Contribute": {
-    "message": "Contribuer",
-    "description": "Navbar item with label Contribute"
+  "item.label.How-to": {
+    "message": "Guides pratiques",
+    "description": "Navbar item with label How-to"
   },
   "item.label.GitHub": {
     "message": "GitHub",

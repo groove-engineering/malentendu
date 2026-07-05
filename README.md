@@ -18,11 +18,11 @@ Available in English and French.
 
 | | |
 |---|---|
-| [The Method](https://trivoallan.github.io/groove-engineering/docs/method/core) | The spec: 2 layers (sound + text), 3 registers (musicological / felt / political), atoms vs molecules |
-| [Political Vision](https://trivoallan.github.io/groove-engineering/docs/method/political-vision) | Six theses: authenticity, commons, creolization, opacity, self-implication, meaning |
-| [Examples](https://trivoallan.github.io/groove-engineering/docs/method/examples) | Diagrams + 3 real worked examples |
-| [Knowledge Graph](https://trivoallan.github.io/groove-engineering/docs/knowledge-graph/overview) | Atoms and crossings — navigable |
-| [Catalogue](https://trivoallan.github.io/groove-engineering/docs/catalogue/misunderstandings) | The *found misunderstandings* — the happy accidents we keep |
+| [The Method](https://trivoallan.github.io/groove-engineering/docs/explanation/method) | The spec: 2 layers (sound + text), 3 registers (musicological / felt / political), atoms vs molecules |
+| [Political Vision](https://trivoallan.github.io/groove-engineering/docs/explanation/political-vision) | Six theses: authenticity, commons, creolization, opacity, self-implication, meaning |
+| [Examples](https://trivoallan.github.io/groove-engineering/docs/explanation/examples) | Diagrams + 3 real worked examples |
+| [Knowledge Graph](https://trivoallan.github.io/groove-engineering/docs/reference/knowledge-graph/overview) | Atoms and crossings — navigable |
+| [Catalogue](https://trivoallan.github.io/groove-engineering/docs/reference/catalogue) | The *found misunderstandings* — the happy accidents we keep |
 
 ## This repo
 

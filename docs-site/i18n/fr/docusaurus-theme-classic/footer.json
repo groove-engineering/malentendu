@@ -1,27 +1,33 @@
 {
-  "link.title.The Method": {
-    "message": "La Méthode"
+  "link.title.Explanation": {
+    "message": "Explication"
   },
-  "link.title.Knowledge Graph": {
-    "message": "Graphe de connaissances"
+  "link.title.Reference": {
+    "message": "Référence"
   },
-  "link.title.More": {
-    "message": "Plus"
+  "link.title.How-to": {
+    "message": "Guides pratiques"
   },
   "link.item.label.Introduction": {
     "message": "Introduction"
   },
-  "link.item.label.Core Spec": {
-    "message": "La spec"
+  "link.item.label.The Method": {
+    "message": "La Méthode"
   },
   "link.item.label.Political Vision": {
     "message": "Vision politique"
+  },
+  "link.item.label.Knowledge Graph": {
+    "message": "Graphe de connaissances"
   },
   "link.item.label.Atoms": {
     "message": "Atomes"
   },
   "link.item.label.Crossings": {
     "message": "Croisements"
+  },
+  "link.item.label.Give Feedback": {
+    "message": "Donner un retour"
   },
   "link.item.label.GitHub": {
     "message": "GitHub"

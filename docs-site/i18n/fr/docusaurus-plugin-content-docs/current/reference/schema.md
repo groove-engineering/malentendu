@@ -5,7 +5,7 @@ title: "RFC : Graphe d'atomes"
 
 # RFC — Les atomes comme graphe de connaissances sourcé
 
-> Document de design. Une proposition à discuter. Voir : [La Méthode](../method/core) (§3 attribution, §4 atomes & molécules, §8 panel de curateurs).
+> Document de design. Une proposition à discuter. Voir : [La Méthode](/docs/explanation/method) (§3 attribution, §4 atomes & molécules, §8 panel de curateurs).
 
 ## Problème
 

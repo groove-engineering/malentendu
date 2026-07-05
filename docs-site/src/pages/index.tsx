@@ -19,12 +19,12 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/explanation/intro">
             Read the Method
           </Link>
           <Link
             className="button button--outline button--lg"
-            to="/docs/knowledge-graph/overview">
+            to="/docs/reference/knowledge-graph/overview">
             Browse the Knowledge Graph
           </Link>
         </div>

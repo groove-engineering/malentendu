@@ -53,21 +53,21 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'methodSidebar',
+          sidebarId: 'explanationSidebar',
           position: 'left',
-          label: 'The Method',
+          label: 'Explanation',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'knowledgeGraphSidebar',
+          sidebarId: 'referenceSidebar',
           position: 'left',
-          label: 'Knowledge Graph',
+          label: 'Reference',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'contributeSidebar',
+          sidebarId: 'howToSidebar',
           position: 'left',
-          label: 'Contribute',
+          label: 'How-to',
         },
         {
           type: 'localeDropdown',
@@ -84,23 +84,25 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'The Method',
+          title: 'Explanation',
           items: [
-            { label: 'Introduction', to: '/docs/intro' },
-            { label: 'Core Spec', to: '/docs/method/core' },
-            { label: 'Political Vision', to: '/docs/method/political-vision' },
+            { label: 'Introduction', to: '/docs/explanation/intro' },
+            { label: 'The Method', to: '/docs/explanation/method' },
+            { label: 'Political Vision', to: '/docs/explanation/political-vision' },
           ],
         },
         {
-          title: 'Knowledge Graph',
+          title: 'Reference',
           items: [
-            { label: 'Atoms', to: '/docs/knowledge-graph/atoms' },
-            { label: 'Crossings', to: '/docs/knowledge-graph/crossings' },
+            { label: 'Knowledge Graph', to: '/docs/reference/knowledge-graph/overview' },
+            { label: 'Atoms', to: '/docs/reference/knowledge-graph/atoms' },
+            { label: 'Crossings', to: '/docs/reference/knowledge-graph/crossings' },
           ],
         },
         {
-          title: 'More',
+          title: 'How-to',
           items: [
+            { label: 'Give Feedback', to: '/docs/how-to/give-feedback' },
             { label: 'GitHub', href: 'https://github.com/trivoallan/groove-engineering' },
           ],
         },
