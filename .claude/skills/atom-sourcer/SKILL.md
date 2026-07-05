@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: atom-sourcer
 description: >-
   Research a music genre and produce a sourced, schema-valid genre atom

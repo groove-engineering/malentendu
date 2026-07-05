@@ -1,4 +1,5 @@
 ---
+version: 1.0.0
 name: run-groove-engineering
 description: >-
   Build, run, and test the groove-engineering PoC (genre-atom compiler).
