@@ -42,14 +42,10 @@ Un panel de personas hostiles (finance, ingénierie, direction, juridique) a att
 - **L'instrument plutôt que l'usine.** L'humain n'est pas *dans* la boucle — l'humain *est* le produit.
 - **Résolument libre — AGPLv3.** Un commun, pas un produit fermé.
 - **Le droit français comme angle.** Un **droit voisin du producteur** sur le master + contribution humaine.
-- **Le nom : Le Malentendu.** Signature : **non = malentendu** (l'homophone délibéré *non / nom*).
+- **Le nom : Le Malentendu.**
 
 ## Pourquoi à découvert
 
 L'histoire habituelle de startup efface le doute, la contradiction, l'aide reçue, pour vendre l'image d'une vision inévitable. C'est exactement le spectacle que ce projet vise. Alors on garde les traces : les mauvaises premières réponses, les questions qui font mal, les voix qui ont résisté.
 
 Montrer ça fait autant partie de l'œuvre que le moteur.
-
----
-
-*non = malentendu*

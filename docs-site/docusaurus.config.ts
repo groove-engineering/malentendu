@@ -107,7 +107,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `AGPLv3 — Le Malentendu. <em>non = malentendu</em>`,
+      copyright: `AGPLv3 — Le Malentendu.`,
     },
     prism: {
       theme: prismThemes.github,

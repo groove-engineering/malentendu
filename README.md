@@ -61,7 +61,3 @@ python3 poc/compile.py --check  # self-check
 # Run the docs locally
 cd docs-site && npm install && npm run generate-atoms && npm start
 ```
-
----
-
-*non = malentendu*

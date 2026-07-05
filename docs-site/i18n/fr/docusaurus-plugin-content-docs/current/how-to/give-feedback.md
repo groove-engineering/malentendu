@@ -25,6 +25,6 @@ Deux façons :
 
 - Commencez par votre **registre** : 🎼 musicologie (un fait) · 👂 ressenti (ce que vous ressentez) · ✊ politique (valeurs).
 - Pointez le marqueur : « P3 », « Q1 »… (les points et questions sont numérotés dans le document).
-- **Le désaccord est le sujet, pas un problème.** *non = malentendu.*
+- **Le désaccord est le sujet, pas un problème.**
 
 Pas besoin de tout lire. Allez directement aux **questions** qui vous parlent.

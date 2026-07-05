@@ -25,6 +25,6 @@ Two ways:
 
 - Start with your **register**: 🎼 musicology (a fact) · 👂 felt response (what you feel) · ✊ political (values).
 - Point to the marker: "P3", "Q1"… (points and questions are numbered in the document).
-- **Disagreement is the subject, not a problem.** *non = malentendu.*
+- **Disagreement is the subject, not a problem.**
 
 No need to read everything. Go straight to the **questions** that speak to you.

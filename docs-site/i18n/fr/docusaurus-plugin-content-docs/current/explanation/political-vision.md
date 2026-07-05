@@ -34,7 +34,3 @@ Le point d'arrivée du spectacle est le contenu infini sans friction. Défendre 
 ## Synthèse positive
 
 > Le Malentendu défend la **créolisation** et le **droit à l'opacité**, contre l'**enclosure** et le **lissage** — avec les armes de l'ennemi, et en l'assumant.
-
----
-
-*non = malentendu*

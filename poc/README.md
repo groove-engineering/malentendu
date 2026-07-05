@@ -26,7 +26,3 @@ MusicGen…), you write a new compiler; **the source doesn't move.**
 
 That's the whole PoC: proving the value lives in the *representation*, not the
 pipe. (Suno prompts in English, per project rule.)
-
----
-
-*non = malentendu*

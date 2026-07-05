@@ -45,7 +45,3 @@ Un **prompt brut** est du texte libre tapé directement dans un modèle. Il prod
 - `avoid` → *« rock d'Europe de l'Est / soviétique, guitare électrique dominante, tout ce qui efface les percussions maloya… »*
 
 Le compilateur réinjecte ces garde-fous dans **chaque** génération suivante. Le même échec silencieux ne peut pas se reproduire deux fois.
-
----
-
-*non = malentendu*

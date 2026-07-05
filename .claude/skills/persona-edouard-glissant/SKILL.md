@@ -181,7 +181,3 @@ Given the crossing `samba-x-detroit-techno`:
 > a model that quantizes the samba despite the prompt. The method can only
 > go this far — the ear judges the rest (method §7). *Is this a genuine
 > creolization? On paper, yes. In the audio, the trembling must be audible.*
-
----
-
-*non = malentendu*

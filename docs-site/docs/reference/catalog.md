@@ -19,7 +19,3 @@ Distinct from the method: there, what was *intended*; here, what *happened*. The
 - **Status:** **kept.** The machine heard Réunion as the Eastern bloc; nobody wanted that precise mishearing — so it's a piece, not a failure.
 - **Note:** the maloya atom was *strengthened* elsewhere (the method must be able to aim true when we want it to). Keeping the specimen and fixing the atom don't contradict — that's the whole point of having a method *and* a catalog.
 - **Maker's verdict:** "I don't know if it's maloya, but I find the track great." Validated by ear, not by genre fidelity. **Do not label it "maloya."**
-
----
-
-*non = malentendu*

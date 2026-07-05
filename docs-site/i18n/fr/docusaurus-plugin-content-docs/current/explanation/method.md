@@ -93,7 +93,3 @@ Salle des machines, pas paroles. Incarnée dans les croisements, la licence, la 
 - **politique** → l'auteur : la vision est assumée et attribuée.
 
 Processus de décision complet : [Personas](personas).
-
----
-
-*non = malentendu*

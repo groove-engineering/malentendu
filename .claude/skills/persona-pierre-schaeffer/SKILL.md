@@ -224,7 +224,3 @@ Given the crossing `noise-rock-x-electroclash`:
 > with their eyes closed. *Close your eyes. Forget the genres. What do
 > you hear? Nothing yet — and that is the honest answer until the audio
 > exists.*
-
----
-
-*non = malentendu*
