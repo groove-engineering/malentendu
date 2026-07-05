@@ -10,12 +10,15 @@ from atomgraph import (
     DRAFT,
     STRICT,
     UnknownAtom,
+    check_overlay_refs,
     check_refs,
     compose_suno,
     load_atoms,
+    load_overlays,
+    merge_overlays,
     select_claims,
 )
-from schema import Atom, Crossing, MusicologicalClaim, Source, Status
+from schema import Atom, Crossing, HeldClaim, HumanOverlay, MusicologicalClaim, Source, Status
 
 
 def _raises(exc, fn):
@@ -108,6 +111,44 @@ def test_load_atoms_from_disk_and_refcheck():
         # a crossing into a genre we didn't load must fail loudly
         bad = _crossing("maloya", "footwork", "maloya")
         assert _raises(UnknownAtom, lambda: check_refs([bad], atoms))
+
+
+def test_merge_overlays_appends_felt():
+    atoms = {"x": _atom("x", [_claim("fact")])}
+    overlays = {"x": HumanOverlay(
+        atom="x",
+        felt=[HeldClaim(text="it grooves", held_by=["Tristan"])],
+    )}
+    merged = merge_overlays(atoms, overlays)
+    assert len(merged["x"].felt) == 1
+    assert merged["x"].felt[0].text == "it grooves"
+    assert merged["x"].musicological == atoms["x"].musicological
+
+
+def test_merge_overlays_skips_unmatched():
+    atoms = {"x": _atom("x", [_claim("fact")])}
+    merged = merge_overlays(atoms, {})
+    assert merged["x"].felt == []
+
+
+def test_check_overlay_refs_raises_on_missing_atom():
+    atoms = {"maloya": _atom("maloya", [_claim("6/8")])}
+    overlays = {"footwork": HumanOverlay(atom="footwork")}
+    assert _raises(UnknownAtom, lambda: check_overlay_refs(overlays, atoms))
+
+
+def test_load_overlays_from_disk():
+    yaml_overlay = (
+        "atom: maloya\n"
+        "felt:\n"
+        "  - text: trance-inducing\n"
+        "    held_by: [Tristan]\n"
+    )
+    with tempfile.TemporaryDirectory() as d:
+        (Path(d) / "maloya.yaml").write_text(yaml_overlay, encoding="utf-8")
+        overlays = load_overlays(d)
+        assert "maloya" in overlays
+        assert overlays["maloya"].felt[0].text == "trance-inducing"
 
 
 def _run():

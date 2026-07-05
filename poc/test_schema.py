@@ -9,6 +9,7 @@ from schema import (
     Atom,
     Crossing,
     HeldClaim,
+    HumanOverlay,
     MusicologicalClaim,
     MusicologicalReport,
     Source,
@@ -46,6 +47,22 @@ def test_agent_report_has_no_political_field():
     # the register-3 boundary is structural: the agent's output type can't carry politics
     assert "political" not in MusicologicalReport.model_fields
     assert "musicological" in MusicologicalReport.model_fields
+
+
+def test_human_overlay_has_no_musicological_field():
+    # the register-1 boundary is structural: the overlay can't carry sourced facts
+    assert "musicological" not in HumanOverlay.model_fields
+    assert "felt" in HumanOverlay.model_fields
+    assert "political" in HumanOverlay.model_fields
+
+
+def test_human_overlay_accepts_felt_claims():
+    ov = HumanOverlay(
+        atom="breakcore",
+        felt=[HeldClaim(text="trance-inducing", held_by=["Tristan"])],
+    )
+    assert len(ov.felt) == 1
+    assert ov.felt[0].held_by == ["Tristan"]
 
 
 def test_atom_has_no_opacity_field():

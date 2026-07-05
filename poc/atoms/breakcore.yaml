@@ -1,0 +1,65 @@
+# Breakcore — genre atom. Status: proposed. Musicological claims sourced and
+# verified against the English Wikipedia article "Breakcore" and the Amen break
+# article, plus breakcore.info (fetched and read July 2026). The agent fills
+# `musicological` only; the human-owned layers (constraints / felt / political /
+# exemplars) are left empty.
+atom: breakcore
+status: proposed
+
+musicological:
+  - claim: "emerged from jungle, hardcore, and drum and bass in the mid-to-late 1990s"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "the scene started as an offshoot of IDM according to Simon Reynolds"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "characterized by complex and intricate breakbeats played at high tempos, typically 160-300+ BPM"
+    source:
+      citation: "breakcore.info, 'What is Breakcore?', accessed July 2026"
+      locator: "https://breakcore.info/what-is-breakcore/"
+  - claim: "the most defining characteristic is the drum work, often based on the manipulation of the Amen break and other classic jungle and hip-hop breaks at high BPM"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "the Amen break is a seven-second drum solo from 'Amen, Brother' by The Winstons (1969), performed by Gregory Coleman, and is one of the most sampled recordings in music history"
+    source:
+      citation: "Wikipedia (EN), 'Amen break', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Amen_break"
+  - claim: "techniques differ from musician to musician: some cut up and rearrange the breaks, others distort and loop them or apply effects such as delay and chorus to alter the break's timbre"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "melodically, there is nothing that defines breakcore; common elements include acid bass lines, Hoovers and Reese bass, and sampling from across the musical spectrum"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "artists such as Shitmat, Sickboy, DJ Scotch Egg, and Drop the Lime take a direction towards mash-up, happy hardcore, and rave to make a lighter, more humorous sound"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "Venetian Snares blended breakcore with elements of classical music"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "the term mashcore was coined by English breakcore artist Shitmat, primarily drawing from the mashup genre"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "raggacore is a subgenre derived from ragga jungle, characterized by ragga and dancehall rhythms and vocals, traced to jungle producer Remarc"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "the scene is largely internet-based, intrinsically linked to online and peer-to-peer distribution"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "early labels shaping the genre include Addict (Milwaukee), Peace Off (Rennes), Sonic Belligeranza (Bologna), and Planet Mu (London)"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
+  - claim: "Digital Hardcore Recordings, formed in 1994, released artists like Alec Empire and Atari Teenage Riot and is also responsible for digital hardcore, a genre developed simultaneously to breakcore"
+    source:
+      citation: "Wikipedia (EN), 'Breakcore', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Breakcore"
