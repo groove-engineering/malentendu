@@ -50,3 +50,15 @@ musicological:
     source:
       citation: "Wikipedia (EN), 'Eurodance', accessed July 2026"
       locator: "https://en.wikipedia.org/wiki/Eurodance"
+  - claim: "Gigi D'Agostino began his DJ career in 1986 spinning Italo disco at a club near Turin; he later pioneered 'Mediterranean Progressive Dance, consisting of minimalistic sounds and Latin and Mediterranean melodies'"
+    source:
+      citation: "Wikipedia (EN), 'Gigi D'Agostino', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Gigi_D%27Agostino"
+  - claim: "Gigi D'Agostino's 'La Passion' (2000) is 'a remix with some additional melodic variations of the song Rectangle by the French musician Jacno'; Jacno is credited as co-writer; some editions are titled 'La Passion (Medley With Rectangle)'"
+    source:
+      citation: "Wikipedia (EN), 'La Passion', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/La_Passion"
+  - claim: "D'Agostino also recorded a cover of Jacno's 'Triangle' in 2004, confirming a sustained engagement with Jacno's new-wave catalog beyond a single sample"
+    source:
+      citation: "WhoSampled, 'Gigi D'Agostino cover of Jacno's Triangle', accessed July 2026"
+      locator: "https://www.whosampled.com/cover/42782/Gigi-D'Agostino-Triangle-Jacno-Triangle/"
