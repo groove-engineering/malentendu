@@ -69,12 +69,12 @@ flowchart LR
 
 Salle des machines, pas paroles. Incarnée dans les croisements, la licence, la contrefaçon — presque jamais dite.
 
-- **L'authenticité = un rapport de pouvoir** : on contrefait le réel pour exposer qu'il est *certifié*, pas essentiel.
-- **Contre l'enclosure, pour les communs** : moteur libre, AGPL.
-- **Créolisation, pas lissage** : friction fertile contre le smoothie / le slop.
-- **Droit à l'opacité** : l'inclassable contre la lisibilité totale ; l'illisibilité comme résistance.
-- **Pas de dehors propre — auto-implication** : on utilise les armes de l'ennemi et on le dit.
-- **Le sens plutôt que le contenu** : l'oreille humaine contre le débit.
+- **L'authenticité = un rapport de pouvoir** (Debord) : on contrefait le réel pour exposer qu'il est *certifié*, pas essentiel.
+- **Contre l'enclosure, pour les communs** (Lessig, Albini) : moteur libre, AGPL. Nommer les clôtures ; refuser le parasite.
+- **Créolisation, pas lissage** (Glissant) : friction fertile contre le smoothie / le slop.
+- **Droit à l'opacité** (Glissant) : l'inclassable contre la lisibilité totale ; l'illisibilité comme résistance.
+- **Pas de dehors propre — auto-implication** (Debord) : on utilise les armes de l'ennemi et on le dit.
+- **Le sens plutôt que le contenu** (Schaeffer) : l'oreille humaine contre le débit — l'objet sonore, pas la description.
 
 **Deux tests de cohérence** (par croisement / texte) :
 1. Est-ce que ça **créolise** (friction fertile) ou ça **lisse** (slop) ?
@@ -82,8 +82,8 @@ Salle des machines, pas paroles. Incarnée dans les croisements, la licence, la 
 
 ## 7. Deux méta-garde-fous
 
-- **La forme, pas le sermon.** La politique vit dans le geste, pas dans des paroles moralisatrices.
-- **L'oreille juge, pas la théorie.** Une cohérence qui ne *sonne* pas bien est morte. Le cercle décide de la qualité ; Glissant ne sauvera pas un morceau ennuyeux.
+- **La forme, pas le sermon.** La politique vit dans le geste, pas dans des paroles moralisatrices. (Debord : détournement, pas décoration.)
+- **L'oreille juge, pas la théorie.** (Schaeffer : *l'écoute réduite*.) Une cohérence qui ne *sonne* pas bien est morte. Le cercle décide de la qualité ; Glissant ne sauvera pas un morceau ennuyeux.
 
 ## 8. Le panel de curateurs (par registre)
 
@@ -92,4 +92,4 @@ Salle des machines, pas paroles. Incarnée dans les croisements, la licence, la 
 - **texte** → paroliers + garde-fous.
 - **politique** → l'auteur : la vision est assumée et attribuée.
 
-Processus de décision complet : [Personas](personas).
+Processus de décision complet et portraits des contre-voix : [Personas & processus de décision](personas).

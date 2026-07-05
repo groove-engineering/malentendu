@@ -87,7 +87,7 @@ flowchart TB
 
 1. **Sortie** : *« on dirait la Hongrie de l'ère soviétique »* (un auditeur). Le maloya avait disparu.
 2. **Deux lectures :**
-   - **A — bug = lissage** : une musique de résistance réunionnaise effacée en rock de bloc de l'Est → **test politique n°1** (créolisation vs lissage) échoue.
+   - **A — bug = lissage** (test de Glissant) : une musique de résistance réunionnaise effacée en rock de bloc de l'Est → *« Créolisation ou smoothie ? »* — c'est un smoothie. L'opacité du maloya a été violée.
    - **B — malentendu trouvé** : la machine a entendu la Réunion comme la Hongrie ; personne ne voulait ce contre-sens précis — c'est l'œuvre.
 3. **Décision : les deux.** **Renforcer l'atome maloya** (A) *et* **le cataloguer comme MR-001** (B).
 4. **Verdict du créateur** : *« Je sais pas si c'est du maloya, mais je trouve le morceau super. »* → le ressenti l'emporte sur la fidélité — mais **ne pas l'étiqueter « maloya ».**

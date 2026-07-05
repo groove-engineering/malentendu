@@ -12,18 +12,6 @@ Une **méthode ouverte** pour fusionner des genres musicaux. Le produit est la *
 
 Libre, sous **AGPLv3**.
 
-## Ce qu'on y trouve
-
-| | |
-|---|---|
-| [Genèse](genesis) | Comment le projet est né, à découvert |
-| [La Méthode](method) | La spec : 2 couches (son + texte), 3 registres (musicologique / ressenti / politique), atomes vs molécules |
-| [Vision politique](political-vision) | Six thèses : authenticité, communs, créolisation, opacité, auto-implication, sens |
-| [Exemples](examples) | Diagrammes + 3 exemples concrets |
-| [Comparaison](comparison) | Pourquoi la méthode bat un prompt brut |
-| [Graphe de connaissances](/docs/reference/knowledge-graph/overview) | Les atomes et croisements — navigables |
-| [Catalogue](/docs/reference/catalog) | Les *malentendus trouvés* — les beaux accidents qu'on garde |
-
 ## Le principe fondateur
 
 Le produit = **la méthode**, pas l'audio ni le prompt. Une fusion est décrite **une seule fois**, indépendamment de tout modèle ; un compilateur la rend vers une cible.
@@ -37,6 +25,33 @@ flowchart LR
   C --> H["brief humain"]
   S -. "on écoute, on corrige" .-> R
 ```
+
+## Cinq contre-voix
+
+Chaque décision qui touche à l'âme du projet passe par des contre-voix — l'axe que l'optimisation startup ne sait pas calculer.
+
+| Contre-voix | Stance | Question forcée |
+|---|---|---|
+| **Glissant** | créolisation, opacité, Relation | *Créolisation ou smoothie ?* |
+| **Debord** | détournement, spectacle, récupération | *Situation vécue, ou accumulation de spectacle ?* |
+| **Albini** | métier, deal honnête, le parasite | *Qui se fait avoir ? C'est honnête ?* |
+| **Lessig** | communs, le code fait loi, enclosure | *Ça fait croître les communs, ou ça ne fait qu'y puiser ?* |
+| **Schaeffer** | l'oreille, l'objet sonore | *Ferme les yeux. Qu'est-ce que tu entends vraiment ?* |
+
+Ce sont des stances IA, pas des simulations de personnes. Elles affûtent ; l'humain décide. Portraits complets : [Personas](personas).
+
+## Ce qu'on y trouve
+
+| | |
+|---|---|
+| [Genèse](genesis) | Comment le projet est né, à découvert |
+| [La Méthode](method) | La spec : 2 couches (son + texte), 3 registres (musicologique / ressenti / politique), atomes vs molécules |
+| [Vision politique](political-vision) | Six thèses, chacune portée par une contre-voix |
+| [Exemples](examples) | Diagrammes + 3 exemples concrets |
+| [Comparaison](comparison) | Pourquoi la méthode bat un prompt brut |
+| [Personas](personas) | Les cinq contre-voix et le processus de décision |
+| [Graphe de connaissances](/docs/reference/knowledge-graph/overview) | Les atomes et croisements — navigables |
+| [Catalogue](/docs/reference/catalog) | Les *malentendus trouvés* — les beaux accidents qu'on garde |
 
 ## Participer
 

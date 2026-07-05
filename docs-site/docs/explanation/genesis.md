@@ -22,10 +22,10 @@ A YC-style diagnostic, run in "questions that sting" mode. What it surfaced, wit
 
 ## Phase 2 — the situationist counter-fire (Debord)
 
-A situationist voice détourned the startup framing itself:
+Debord's counter-voice détourned the startup framing itself:
 
 - The factory *is* the spectacle. Automation is the murder of the dérive.
-- The real question isn't "is this worth building," but **"is this the construction of a lived situation, or one more accumulation of spectacle?"**
+- The forcing question: **"is this the construction of a lived situation, or one more accumulation of spectacle?"**
 - Verdict: value lives in the lived gesture (the instrument), not in throughput (the factory).
 
 ## Phase 3 — the adversarial challenge (personas)

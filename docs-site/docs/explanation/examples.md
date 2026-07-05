@@ -89,7 +89,7 @@ These three happened during development. They illustrate the method better than 
 
 1. **Output**: *"sounds like USSR-era Hungary"* (a listener). The maloya vanished.
 2. **Two readings:**
-   - **A — bug = flattening**: a Réunionese resistance music erased into Eastern-bloc rock → **political test #1** (creolization vs flattening) fails.
+   - **A — bug = flattening** (Glissant's test): a Réunionese resistance music erased into Eastern-bloc rock → *"Is this creolization or a smoothie?"* — it's a smoothie. The opacity of maloya was violated.
    - **B — found misunderstanding**: the machine misheard Réunion as Hungary; nobody wanted that precise mishearing — it's the work.
 3. **Decision: both.** **Strengthen the maloya atom** (A) *and* **catalog it as MR-001** (B).
 4. **Maker's verdict**: *"I don't know if it's maloya, but I find the track great."* → felt wins over fidelity — but **don't label it "maloya."**
