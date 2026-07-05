@@ -1,0 +1,48 @@
+# Pagode — genre atom. Status: proposed. Musicological claims sourced and verified
+# against Wikipedia (EN/PT), Melodigging, Brazzil Magazine, and SABRA (fetched and
+# read July 2026). The agent fills `musicological` only; the human-owned layers
+# (constraints / felt / political / exemplars) are left empty.
+atom: pagode
+status: proposed
+
+musicological:
+  - claim: "originated in Rio de Janeiro as a subgenre of samba, becoming popularized in the late 1970s and early 1980s"
+    source:
+      citation: "Wikipedia (EN), 'Pagode', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Pagode"
+  - claim: "the word 'pagode' originally meant a celebration with food, music, dance, and party, stemming from meanings of 'fun' or 'merrymaking'"
+    source:
+      citation: "Wikipedia (EN), 'Pagode', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Pagode"
+  - claim: "emerged from the tradition of samba circles held in 'fundos de quintal' (backyards) in Rio de Janeiro's suburbs, particularly in the neighborhoods of Ramos, Abolição, Madureira, and Oswaldo Cruz"
+    source:
+      citation: "SABRA (Sociedade Artística Brasileira), 'Pagode'"
+      locator: "https://www.sabra.org.br/site/pagode/"
+  - claim: "the four-string banjo (banjo with cavaquinho neck) was introduced primarily by Almir Guineto; it has a louder sound than the cavaco, an advantage in acoustic environments crowded with percussion and singers"
+    source:
+      citation: "Wikipedia (EN), 'Pagode', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Pagode"
+  - claim: "the tantã, credited to musician Sereno, is a hand-played type of surdo used to keep the main beat of the samba; the repique de mão, credited to Ubirany, is used especially for rhythmic turnarounds"
+    source:
+      citation: "Wikipedia (EN), 'Pagode', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Pagode"
+  - claim: "Grupo Fundo de Quintal formed in Rio de Janeiro in the late 1970s from musicians performing at the Cacique de Ramos carnival block; 'with the introduction of such instruments as the tan-tan, hand-repique and banjo, the group created a completely innovative style in samba'"
+    source:
+      citation: "Wikipedia (EN), 'Fundo de Quintal', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Fundo_de_Quintal"
+  - claim: "singer Beth Carvalho, regarded as 'madrinha do samba' (godmother of samba), visited the Cacique de Ramos and invited the musicians to record on her 1978 album 'De Pé no Chão', helping bring pagode artists to the public"
+    source:
+      citation: "Wikipedia (EN), 'Beth Carvalho', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Beth_Carvalho"
+  - claim: "lyrics represented an evolution toward 'malicious and ironic samba lyrics, with a much heavier use of slang and underground terms'"
+    source:
+      citation: "Wikipedia (EN), 'Pagode', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Pagode"
+  - claim: "features catchy choruses, tight vocal harmonies, and call-and-response hooks; lyrical themes focus on love, friendship, bohemian life, and everyday humor"
+    source:
+      citation: "Melodigging, 'Pagode'"
+      locator: "https://www.melodigging.com/genre/pagode"
+  - claim: "tempo is typically mid-range, roughly 90–110 BPM, with a flowing 2/4 samba pulse emphasizing partido alto syncopation: off-beat accents and anticipations into the downbeat"
+    source:
+      citation: "Melodigging, 'Pagode'"
+      locator: "https://www.melodigging.com/genre/pagode"

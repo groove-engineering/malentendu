@@ -1,0 +1,53 @@
+# Samba de Roda — genre atom. Status: proposed. Musicological claims sourced and
+# verified against UNESCO ICH, UNESCO Multimedia Archives, Aventura do Brasil, and
+# Ethnomusicology Review (UCLA) (fetched and read July 2026). The agent fills
+# `musicological` only; the human-owned layers (constraints / felt / political /
+# exemplars) are left empty.
+atom: samba-de-roda
+status: proposed
+
+musicological:
+  - claim: "developed in the Recôncavo region of the State of Bahia during the seventeenth century, drawing on the dances and cultural traditions of enslaved Africans and elements of Portuguese culture such as language, poetry, and certain musical instruments"
+    source:
+      citation: "UNESCO ICH, Representative List — Samba de Roda of the Recôncavo of Bahia"
+      locator: "https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101"
+  - claim: "participants gather in a circle (roda); it is generally performed only by women, each taking her turn in the center of the ring surrounded by others dancing in the circle"
+    source:
+      citation: "UNESCO ICH, Representative List — Samba de Roda of the Recôncavo of Bahia"
+      locator: "https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101"
+  - claim: "the umbigada (belly push) is a testimony of Bantu influence, used by the dancer to invite her successor into the centre of the circle"
+    source:
+      citation: "UNESCO ICH, Representative List — Samba de Roda of the Recôncavo of Bahia"
+      locator: "https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101"
+  - claim: "distinguished by the use of the viola machete, a small lute with plucked strings from Portugal"
+    source:
+      citation: "UNESCO ICH, Representative List — Samba de Roda of the Recôncavo of Bahia"
+      locator: "https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101"
+  - claim: "the viola machete is a ten-stringed viola with strings arranged in five pairs; its characteristic playing technique is called 'pinicado', where the thumb strikes the more acute string while the index finger strikes the more grave string"
+    source:
+      citation: "Ethnomusicology Review (UCLA), Vol. 14 — 'Viola nos Sambos do Recôncavo Baiano'"
+      locator: "https://ethnomusicologyreview.ucla.edu/journal/volume/14/piece/487"
+  - claim: "instruments include viola, pandeiro, atabaque (barrel drum), chocalho, ganzá, guitar, reco-reco, agogô, berimbau, and prato-e-faca (plate scraped or tapped by a knife)"
+    source:
+      citation: "Aventura do Brasil, 'Samba de Roda: Samba with African Roots'"
+      locator: "https://www.aventuradobrasil.com/blog/samba-de-roda-samba-with-african-roots/"
+  - claim: "vocal structure features a main verse sung by one or two singers, followed by a response or 'relativo' sung by all present or sometimes by one or two singers; stanzas rarely exceed eight verses"
+    source:
+      citation: "Aventura do Brasil, 'Samba de Roda: Samba with African Roots'"
+      locator: "https://www.aventuradobrasil.com/blog/samba-de-roda-samba-with-african-roots/"
+  - claim: "has two variants: in Samba Chula, the singers sing a poem (the chula) and participants stand still until it ends before dancing and clapping; in Samba Corrido, there is dancing, clapping, and music simultaneously"
+    source:
+      citation: "Aventura do Brasil, 'Samba de Roda: Samba with African Roots'"
+      locator: "https://www.aventuradobrasil.com/blog/samba-de-roda-samba-with-african-roots/"
+  - claim: "performed at popular Catholic festivities or Afro-Brazilian religious ceremonies, and also in more spontaneous settings"
+    source:
+      citation: "UNESCO ICH, Representative List — Samba de Roda of the Recôncavo of Bahia"
+      locator: "https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101"
+  - claim: "migrants from the Recôncavo brought samba de roda to Rio de Janeiro, where it influenced the evolution of urban samba that became a symbol of Brazilian national identity in the twentieth century"
+    source:
+      citation: "UNESCO Multimedia Archives, document 615"
+      locator: "https://www.unesco.org/archives/multimedia/document-615"
+  - claim: "proclaimed a Masterpiece of the Oral and Intangible Heritage of Humanity in 2005, then inscribed on the Representative List of the Intangible Cultural Heritage of Humanity in 2008"
+    source:
+      citation: "UNESCO ICH, Representative List — Samba de Roda of the Recôncavo of Bahia"
+      locator: "https://ich.unesco.org/en/RL/samba-de-roda-of-the-reconcavo-of-bahia-00101"

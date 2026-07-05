@@ -1,0 +1,53 @@
+# Detroit techno second wave — genre atom. Status: proposed. Musicological claims
+# sourced and verified against Wikipedia (EN), Discogs, Roland Articles, Music
+# Origins Project, and U.S. National Park Service (fetched and read July 2026).
+# The agent fills `musicological` only; the human-owned layers (constraints /
+# felt / political / exemplars) are left empty.
+atom: detroit-techno-second-wave
+status: proposed
+
+musicological:
+  - claim: "emerged in the early 1990s as a harder, more politically explicit generation after the Belleville Three's first wave peaked in 1988–89"
+    source:
+      citation: "Wikipedia (EN), 'Detroit techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Detroit_techno"
+  - claim: "Underground Resistance was founded in 1989 by 'Mad' Mike Banks and Jeff Mills; Robert Hood served as 'Minister of Information'; notable past members include Gerald Donald and James Stinson (Drexciya)"
+    source:
+      citation: "Wikipedia (EN), 'Underground Resistance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Underground_Resistance"
+  - claim: "UR members performed wearing balaclavas and black combat suits, promoting anonymity to counter the profiling of Black DJs and resist the 'superstar DJ' concept"
+    source:
+      citation: "Wikipedia (EN), 'Underground Resistance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Underground_Resistance"
+  - claim: "UR's music mixed 1980s electro, UK synth-pop, and industrial elements, creating 'a harsh Detroit hardcore full of riffs and industrial bleakness'; later shifted toward 'high-tech funk' incorporating breakbeats and drum and bass"
+    source:
+      citation: "Wikipedia (EN), 'Detroit techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Detroit_techno"
+  - claim: "the Galaxy 2 Galaxy EP (1993), created by Mike Banks, pioneered the 'hi-tech jazz' style; the concept was Mills and Banks' idea that jazz musicians could operate with the same 'man machine' doctrine seen in Kraftwerk's music"
+    source:
+      citation: "Wikipedia (EN), 'Galaxy 2 Galaxy', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Galaxy_2_Galaxy"
+  - claim: "Jeff Mills left UR in 1991 and founded Axis Records in 1992 with Robert Hood, aiming for a more minimal sound; Mills is known for mastery of the Roland TR-909, typically performing with three decks and up to 70 records per hour"
+    source:
+      citation: "Wikipedia (EN), 'Jeff Mills', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Jeff_Mills"
+  - claim: "Robert Hood's album 'Minimal Nation' (1994, Axis Records) is 'considered the inspiration for the minimal techno genre', subtracted all remaining traces of disco and R&B from Detroit techno"
+    source:
+      citation: "Wikipedia (EN), 'Minimal Nation', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Minimal_Nation"
+  - claim: "Carl Craig, a leading second-generation figure, founded Planet E Communications in 1991; his 1992 track 'Bug in the Bassbin' influenced UK drum and bass development when DJs played the 33 RPM record at 45 RPM"
+    source:
+      citation: "Wikipedia (EN), 'Carl Craig', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Carl_Craig"
+  - claim: "Drexciya (James Stinson and Gerald Donald, active 1992–2002) built an Afrofuturist mythology of an underwater nation populated by unborn children of pregnant African women thrown off slave ships; their first release 'Deep Sea Dweller' (1992) was on UR"
+    source:
+      citation: "Wikipedia (EN), 'Drexciya', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Drexciya"
+  - claim: "Submerge, founded by Mike Banks and Christa Weatherspoon, served as a centralized distribution hub for small Detroit techno labels including UR, Transmat, and Red Planet; its building at 3000 East Grand Boulevard houses Exhibit 3000, described as the world's first techno museum"
+    source:
+      citation: "Roland Articles, 'The Detroit Way'"
+      locator: "https://articles.roland.com/the-detroit-way/"
+  - claim: "Submerge is listed by the U.S. National Park Service as a cultural site within the Jam Handy/North End–East Grand Boulevard Historic District"
+    source:
+      citation: "U.S. National Park Service, 'Tour Submerge Record Distribution'"
+      locator: "https://www.nps.gov/thingstodo/tour-submerge-record-distribution.htm"

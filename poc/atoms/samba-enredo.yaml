@@ -1,0 +1,53 @@
+# Samba-enredo — genre atom. Status: proposed. Musicological claims sourced and
+# verified against Wikipedia (EN), Ola Samba, The Sound Atlas, The Stringuy, and
+# Encyclopedia.com (fetched and read July 2026). The agent fills `musicological`
+# only; the human-owned layers (constraints / felt / political / exemplars) are
+# left empty.
+atom: samba-enredo
+status: proposed
+
+musicological:
+  - claim: "a sub-genre of samba made specifically by a samba school for the festivities of Brazilian Carnival; consists of a lyric and a melody created from a theme (enredo) chosen by the school"
+    source:
+      citation: "Wikipedia (EN), 'Samba-enredo', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Samba-enredo"
+  - claim: "from the 1930s onward, competition contests compelled schools to commit to presented themes, which began to narrate episodes and exalt characters from official Brazilian historiography"
+    source:
+      citation: "Wikipedia (EN), 'Samba-enredo', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Samba-enredo"
+  - claim: "a new samba-enredo song must be written each year for each school; composers from the Ala dos Compositores submit entries, and schools may receive sometimes hundreds of submissions"
+    source:
+      citation: "Wikipedia (EN), 'Samba-enredo', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Samba-enredo"
+  - claim: "follows a verse-chorus structure with two different verses and two different choruses; typically lasts around two minutes, then cycles top to bottom again throughout the parade"
+    source:
+      citation: "Ola Samba, 'Samba Enredo'"
+      locator: "https://www.olasamba.co.uk/blog/samba-enredo"
+  - claim: "performed in 2/4 time; occupies the top end of samba's tempo range, historically increasing from approximately 120 BPM in the 1960s to 150 BPM in the 2010s, with recent years around 140 BPM"
+    source:
+      citation: "Ola Samba, 'Samba Enredo'"
+      locator: "https://www.olasamba.co.uk/blog/samba-enredo"
+  - claim: "harmony is diatonic and simple, featuring singable melodies designed for mass participation with straightforward major-key progressions"
+    source:
+      citation: "The Sound Atlas, 'Samba-Enredo'"
+      locator: "https://thesoundatlas.org/discover/samba-enredo"
+  - claim: "the bateria comprises up to 300 musicians (ritmistas), organized into three functional groups: marcação (pulse-keeping surdos), conduction (caixa, repique, tamborim), and accompaniment (cuíca, reco-reco, agogô, chocalho, prato)"
+    source:
+      citation: "The Stringuy, '300 Musicians, 1 Beat: Samba School Bateria Guide'"
+      locator: "https://www.thestringuy.com/300-musicians-1-beat-samba-school-bateria-guide/"
+  - claim: "the Mestre de Bateria functions like an orchestra conductor, using hand signals and whistles to manage dynamics, tempo, and paradinhas (rhythmic breaks); the first paradinha is credited to the school Mocidade in the mid-1950s"
+    source:
+      citation: "Ola Samba, 'Samba Enredo'"
+      locator: "https://www.olasamba.co.uk/blog/samba-enredo"
+  - claim: "each school's parade features a puxador (lead singer) who sings the samba-enredo with amplification; all marching participants sing along, and harmony (mass singing) is a judging criterion"
+    source:
+      citation: "Wikipedia (EN), 'Samba-enredo', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Samba-enredo"
+  - claim: "Silas de Oliveira composed 'Aquarela Brasileira' for Império Serrano's 1964 carnival parade, considered one of the most celebrated sambas-enredo in history"
+    source:
+      citation: "Wikipedia (EN), 'Império Serrano', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Imp%C3%A9rio_Serrano"
+  - claim: "Dona Ivone Lara was the first woman in a samba school's Ala dos Compositores (composers' section), associated with Império Serrano"
+    source:
+      citation: "Wikipedia (EN), 'Império Serrano', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Imp%C3%A9rio_Serrano"

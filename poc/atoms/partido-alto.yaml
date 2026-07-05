@@ -1,0 +1,45 @@
+# Partido alto — genre atom. Status: proposed. Musicological claims sourced and
+# verified against Wikipedia (EN), Ethnomusicology Review (UCLA), Alphaville
+# Journal, ICTM Dialogues, and Lumbeat (fetched and read July 2026). The agent
+# fills `musicological` only; the human-owned layers (constraints / felt /
+# political / exemplars) are left empty.
+atom: partido-alto
+status: proposed
+
+musicological:
+  - claim: "a type of samba featuring two or more singers in a duel of improvised verses; the term also designates a particular rhythmic style derived from this form"
+    source:
+      citation: "Ethnomusicology Review (UCLA), Vol. 12 — review of Nei Lopes, 'Partido-Alto: Samba de Bamba'"
+      locator: "https://ethnomusicologyreview.ucla.edu/journal/volume/12/piece/501"
+  - claim: "has its origins in the religious parties in rural communities where jongo was played, a type of music rooted in Africa, accompanied by drums called candongueiros, angumativas, and caxambus"
+    source:
+      citation: "Wikipedia (EN), 'Partido alto', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Partido_alto"
+  - claim: "divided in two main parts: a usually static refrain (refrão) sung by a chorus (often everyone present), and verses soloed by one or more participants"
+    source:
+      citation: "Wikipedia (EN), 'Partido alto', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Partido_alto"
+  - claim: "verses are either improvised or drawn from the traditional repertoire; improvisers use 'standardized verses' or 'ready-made' verses as foundational elements rather than creating entirely original material"
+    source:
+      citation: "Ethnomusicology Review (UCLA), Vol. 12 — review of Nei Lopes, 'Partido-Alto: Samba de Bamba'"
+      locator: "https://ethnomusicologyreview.ucla.edu/journal/volume/12/piece/501"
+  - claim: "in samba reunions, partido alto songs can represent a time for improvisation and humorous disputes, besides a stronger singalong opportunity for the participants"
+    source:
+      citation: "Wikipedia (EN), 'Partido alto', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Partido_alto"
+  - claim: "presents a peculiar pandeiro beat, with strong use of a violent, dry snap created by hitting the center of the head with the palm of the hand; nylon-skinned pandeiros are more common here than in other samba genres"
+    source:
+      citation: "Wikipedia (EN), 'Partido alto', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Partido_alto"
+  - claim: "harmony is traditionally in a major key, matching the genre's somewhat euphoric nature"
+    source:
+      citation: "Wikipedia (EN), 'Partido alto', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Partido_alto"
+  - claim: "during the 1970s, partido alto strove to resist the homogenisation that was seen to be distorting samba, especially during Brazil's military dictatorship (1964–1985)"
+    source:
+      citation: "Ola Samba, 'Roda de Samba'"
+      locator: "https://www.olasamba.co.uk/blog/roda-de-samba"
+  - claim: "famous practitioners include Clementina de Jesus, Jovelina Pérola Negra, Xangô da Mangueira, Bezerra da Silva, and Candeia; more contemporary artists include Grupo Fundo de Quintal, Zeca Pagodinho, Almir Guineto, and Arlindo Cruz"
+    source:
+      citation: "Wikipedia (EN), 'Partido alto', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Partido_alto"
