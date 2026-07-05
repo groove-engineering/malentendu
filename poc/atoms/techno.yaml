@@ -1,0 +1,65 @@
+# Techno — genre atom. Status: proposed. Musicological claims sourced and
+# verified against Wikipedia (EN) articles "Techno", "Belleville Three",
+# "Juan Atkins", and Britannica "techno music" (fetched and read July 2026).
+# The agent fills `musicological` only; the human-owned layers
+# (constraints / felt / political / exemplars) are left empty.
+atom: techno
+status: proposed
+
+musicological:
+  - claim: "originated in Detroit, Michigan in the mid-1980s"
+    source:
+      citation: "Wikipedia (EN), 'Techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Techno"
+  - claim: "created by middle-class African American youth in Detroit"
+    source:
+      citation: "Encyclopaedia Britannica, 'techno', accessed July 2026"
+      locator: "https://www.britannica.com/art/techno-music"
+  - claim: "the genre's principal creators are Juan Atkins, Derrick May, and Kevin Saunderson, known collectively as the Belleville Three after the suburb of Belleville, Michigan where they attended high school"
+    source:
+      citation: "Wikipedia (EN), 'Belleville Three', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Belleville_Three"
+  - claim: "the Belleville Three discovered electronic music through 'The Midnight Funk Association', a late-night Detroit radio show hosted by DJ Charles 'The Electrifying Mojo' Johnson on WGPR"
+    source:
+      citation: "Wikipedia (EN), 'Belleville Three', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Belleville_Three"
+  - claim: "the Belleville Three synthesized house music with the mechanical sounds of artists like Kraftwerk, reflecting post-industrial Detroit's character"
+    source:
+      citation: "Wikipedia (EN), 'Belleville Three', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Belleville_Three"
+  - claim: "Juan Atkins' artistic vision 'welded the more cosmic side of Parliament funk with the rigid computer synth pop embodied by Kraftwerk'"
+    source:
+      citation: "Wikipedia (EN), 'Juan Atkins', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Juan_Atkins"
+  - claim: "Model 500's 'No UFOs' (1985), a project of Juan Atkins, is generally considered the first techno production"
+    source:
+      citation: "Wikipedia (EN), 'Techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Techno"
+  - claim: "Juan Atkins founded the record label Metroplex in 1985"
+    source:
+      citation: "Wikipedia (EN), 'Juan Atkins', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Juan_Atkins"
+  - claim: "characterized by repetitive instrumental music in common time (4/4) with a tempo of 120 to 150 BPM"
+    source:
+      citation: "Wikipedia (EN), 'Techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Techno"
+  - claim: "produced primarily with electronic instruments, notably drum machines (Roland TR-808, TR-909), sequencers, and synthesizers"
+    source:
+      citation: "Wikipedia (EN), 'Techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Techno"
+  - claim: "stylistic origins include house, electro, synth-pop, hi-NRG, EBM, Eurodisco, Italo disco, and krautrock"
+    source:
+      citation: "Wikipedia (EN), 'Techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Techno"
+  - claim: "the term 'techno' as a musical label was inspired by futurist Alvin Toffler's concept of 'techno rebels'; Juan Atkins applied it to Cybotron's work from 1985"
+    source:
+      citation: "Wikipedia (EN), 'Techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Techno"
+  - claim: "the 1988 UK compilation 'Techno! The New Dance Sound of Detroit', compiled with Derrick May and Neil Rushton, solidified the term's association with the Detroit sound"
+    source:
+      citation: "Wikipedia (EN), 'Techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Techno"
+  - claim: "the Music Institute in Detroit (1988-1989) was an influential venue featuring all-night sets and a sparse, no-alcohol aesthetic"
+    source:
+      citation: "Wikipedia (EN), 'Techno', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Techno"
