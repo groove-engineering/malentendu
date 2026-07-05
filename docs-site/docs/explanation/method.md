@@ -28,7 +28,7 @@ A fusion isn't only sound — it's also words, and **the text fuses too** (litur
 - **Sound**: groove, harmony, instrumentation, production, tempo/feel, tension.
 - **Text**: language, themes/content, concept/détournement, lyrics (compiled output, in the required language).
 
-## 2. Three registers
+## 2. Four registers
 
 Every claim (sound or text) belongs to a register. Conflating them is the error to avoid.
 
@@ -37,10 +37,11 @@ Every claim (sound or text) belongs to a register. Conflating them is the error 
 | **musicological** | structural fact (tempo, mode, instrumentation, genre traits, language/convention) | musicologist / expert practitioner | yes (true/false) | constraints |
 | **felt** (*ressenti*) | subjective experience (beautiful, "it works", recognition, emotion) | any listener | no (held, not true) | intent / mood |
 | **political** | values / worldview (what the gesture says) | an owned, attributed position | no, but must be **coherent** | meaning / structural choices |
+| **intention** | declared project (what the maker wants to accomplish with the fusion) | the maker / alternative curator | no (held, declarative) | direction / brief |
 
 ## 3. Attribution — positions, not truths
 
-Every claim carries its **source**. The musicological can be true or false (an expert decides); the felt and the political are *held*, not true. A genre atom = a bundle of **attributed positions**, contestable. Two curators may diverge: the engine holds both.
+Every claim carries its **source**. The musicological can be true or false (an expert decides); the felt, the political, and the intention are *held*, not true. A genre atom = a bundle of **attributed positions**, contestable. Two curators may diverge: the engine holds both.
 
 ## 4. Atoms & molecules
 
@@ -91,5 +92,6 @@ Engine room, not lyrics. Enacted in the crossings, the license, the forgery — 
 - **felt** → the circle of listeners.
 - **text** → lyricists + guardrails.
 - **political** → the author: the vision is owned and attributed.
+- **intention** → the maker (default); alternative curators can hold a different intention.
 
 Full decision process and counter-voice portraits: [Personas & Decision Process](personas).
