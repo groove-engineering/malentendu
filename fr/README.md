@@ -9,17 +9,28 @@ musicien humain) sont des **backends interchangeables**.
 
 Libre, sous **AGPLv3**.
 
+## Documentation
+
+La méthode complète est publiée sur :
+**[trivoallan.github.io/groove-engineering](https://trivoallan.github.io/groove-engineering/fr/)**
+
+Disponible en anglais et en français.
+
+| | |
+|---|---|
+| [La Méthode](https://trivoallan.github.io/groove-engineering/fr/docs/method/core) | La spec : 2 couches (son + texte), 3 registres (musicologique / ressenti / politique), atomes vs molécules |
+| [Vision politique](https://trivoallan.github.io/groove-engineering/fr/docs/method/political-vision) | Six thèses : authenticité, communs, créolisation, opacité, auto-implication, sens |
+| [Exemples](https://trivoallan.github.io/groove-engineering/fr/docs/method/examples) | Diagrammes + 3 exemples concrets |
+| [Graphe de connaissances](https://trivoallan.github.io/groove-engineering/fr/docs/knowledge-graph/overview) | Atomes et croisements — navigables |
+| [Catalogue](https://trivoallan.github.io/groove-engineering/fr/docs/catalogue/misunderstandings) | Les *malentendus trouvés* — les beaux accidents qu'on garde |
+
 ## Ce dépôt
 
 | | |
 |---|---|
-| [`GENESIS.md`](GENESIS.md) | comment le projet est né, à découvert |
-| [`process/method.md`](process/method.md) | la spec : 2 couches (son + texte), 3 registres (musicologique / ressenti / politique), atomes vs molécules, vision politique |
-| [`process/political-vision.md`](process/political-vision.md) | la vision politique intégrale — six thèses : authenticité, communs, créolisation, opacité, auto-implication, sens |
-| [`process/examples.md`](process/examples.md) | diagrammes + 3 exemples concrets |
-| [`process/comparison.md`](process/comparison.md) | pourquoi la méthode bat un prompt brut — fonctionnalités + comparaison côte à côte |
-| [`catalogue/misunderstandings.md`](catalogue/misunderstandings.md) | les *malentendus trouvés* — les heureux accidents qu'on garde |
+| [`docs-site/`](../docs-site/) | Site Docusaurus — la méthode, publiée (EN + FR) |
 | [`poc/`](poc/) | la preuve : `python3 poc/compile.py` compile une fusion en prompt Suno **et** en brief humain (deux backends, une seule source) |
+| [`catalogue/tracks/`](../catalogue/tracks/) | fiches des malentendus trouvés (MR-002 … MR-008) |
 
 ## Participer
 
@@ -33,3 +44,13 @@ Le désaccord est le sujet.
 python3 poc/compile.py          # compiler les fusions -> Suno + brief
 python3 poc/compile.py --check  # auto-vérification
 ```
+
+## Lancer la doc en local
+
+```bash
+cd docs-site && npm install && npm run generate-atoms && npm start -- --locale fr
+```
+
+---
+
+*non = malentendu*
