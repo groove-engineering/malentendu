@@ -1,0 +1,42 @@
+# IDM (Intelligent Dance Music) — genre atom.
+#
+# Status: proposed. Musicological claims sourced by an AI passer against
+# Wikipedia (EN), fetched and verified. Boards of Canada are one of the
+# three canonical IDM artists alongside Aphex Twin and Autechre.
+# The agent fills ONLY `musicological`. The human-owned layers are left empty.
+atom: idm
+status: proposed
+
+musicological:
+  - claim: "originated in the early 1990s from the culture and sound palette of acid house, ambient techno, Detroit techno, and breakbeat"
+    source:
+      citation: "Wikipedia (EN), 'Intelligent dance music', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Intelligent_dance_music"
+  - claim: "the term derives from the 1992 Warp Records compilation Artificial Intelligence, subtitled 'electronic listening music from Warp', and a Usenet mailing list founded by Alan Parry in August 1993"
+    source:
+      citation: "Wikipedia (EN), 'Intelligent dance music', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Intelligent_dance_music"
+  - claim: "defined by idiosyncratic experimentation rather than specific genre constraints; better suited to home listening than dancing"
+    source:
+      citation: "Wikipedia (EN), 'Intelligent dance music', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Intelligent_dance_music"
+  - claim: "prominent artists include Aphex Twin, Autechre, Boards of Canada, Squarepusher, and The Future Sound of London; key labels include Warp Records, Rephlex, and Skam"
+    source:
+      citation: "Wikipedia (EN), 'Intelligent dance music', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Intelligent_dance_music"
+  - claim: "Boards of Canada's production employs intentionally detuned vintage synthesizers, samplers, drum machines, and reel-to-reel tape recorders"
+    source:
+      citation: "Wikipedia (EN), 'Music Has the Right to Children', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Music_Has_the_Right_to_Children"
+  - claim: "Boards of Canada incorporate samples from 1970s television, National Film Board of Canada documentaries, and found sounds recorded through open studio windows"
+    source:
+      citation: "Wikipedia (EN), 'Boards of Canada', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Boards_of_Canada"
+  - claim: "Boards of Canada's rhythmic approach uses mid-tempo hip-hop-inspired beat patterns layered with degraded analogue textures"
+    source:
+      citation: "Wikipedia (EN), 'Music Has the Right to Children', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Music_Has_the_Right_to_Children"
+  - claim: "the term 'intelligent dance music' has been widely criticised and dismissed by artists associated with the style"
+    source:
+      citation: "Wikipedia (EN), 'Intelligent dance music', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Intelligent_dance_music"
