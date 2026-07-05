@@ -94,8 +94,4 @@ These three happened during development. They illustrate the method better than 
 3. **Decision: both.** **Strengthen the maloya atom** (A) *and* **catalog it as MR-001** (B).
 4. **Maker's verdict**: *"I don't know if it's maloya, but I find the track great."* → felt wins over fidelity — but **don't label it "maloya."**
 
-> **What it shows:** the felt register, the political **flattening** test, the **method / catalog** duality, and *non = malentendu* in action.
-
----
-
-*non = malentendu*
+> **What it shows:** the felt register, the political **flattening** test, and the **method / catalog** duality in action.

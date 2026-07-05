@@ -28,5 +28,3 @@
 *To comment: reply in this thread (Conversation tab). You can write or drop an audio file (.m4a, .mp3) into the box.*
 
 *Three distinct registers: 🎼 musicology (a fact, verifiable) · 👂 felt response (subjective, held) · ✊ political (values). Disagreement is the subject.*
-
-*non = malentendu*

@@ -42,14 +42,10 @@ A panel of hostile personas (finance, engineering, leadership, legal) attacked t
 - **The instrument over the factory.** The human isn't *in* the loop — the human *is* the product.
 - **Resolutely free — AGPLv3.** A commons, not a closed product.
 - **French law as the angle.** A **producer's neighboring right** on the master + human contribution.
-- **The name: Le Malentendu.** Signature: **non = malentendu** (the deliberate *non / nom* — "no" / "name" — homophone).
+- **The name: Le Malentendu.**
 
 ## Why in the open
 
 The usual startup story erases doubt, contradiction, the help received, to sell the image of an inevitable vision. That's exactly the spectacle this project targets. So we keep the traces: the wrong early answers, the questions that hurt, the voices that pushed back.
 
 Showing that is the work as much as the engine.
-
----
-
-*non = malentendu*

@@ -56,7 +56,3 @@ in the spirit of Danyèl Waro, Christine Salem, Lindigo, ...
 ```
 
 One source, two outputs (Suno + brief), every guard-rail carried — that's the line between a prompt and a method.
-
----
-
-*non = malentendu*

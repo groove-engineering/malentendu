@@ -93,7 +93,3 @@ Engine room, not lyrics. Enacted in the crossings, the license, the forgery — 
 - **political** → the author: the vision is owned and attributed.
 
 Full decision process: [Personas](personas).
-
----
-
-*non = malentendu*

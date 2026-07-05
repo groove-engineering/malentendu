@@ -92,8 +92,4 @@ flowchart TB
 3. **Décision : les deux.** **Renforcer l'atome maloya** (A) *et* **le cataloguer comme MR-001** (B).
 4. **Verdict du créateur** : *« Je sais pas si c'est du maloya, mais je trouve le morceau super. »* → le ressenti l'emporte sur la fidélité — mais **ne pas l'étiqueter « maloya ».**
 
-> **Ce que ça montre :** le registre ressenti, le test politique du **lissage**, la dualité **méthode / catalogue**, et *non = malentendu* en action.
-
----
-
-*non = malentendu*
+> **Ce que ça montre :** le registre ressenti, le test politique du **lissage**, et la dualité **méthode / catalogue** en action.

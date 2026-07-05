@@ -71,7 +71,3 @@ The recipe, three ingredients:
 > **stance** + **own incentive** + **the single question it forces that no one else asks.**
 
 A persona that doesn't force a new question is useless: don't add it.
-
----
-
-*non = malentendu*

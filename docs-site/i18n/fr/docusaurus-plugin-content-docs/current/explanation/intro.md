@@ -50,7 +50,3 @@ Le désaccord est le sujet.
 python3 poc/compile.py          # compiler les fusions -> Suno + brief
 python3 poc/compile.py --check  # auto-vérification
 ```
-
----
-
-*non = malentendu*

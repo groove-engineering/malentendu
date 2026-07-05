@@ -203,7 +203,3 @@ a locator (URL, DOI, ISBN+page, or timecode)":
 > excluding the people who built the music. *Does this grow the commons
 > or just draw from it? It grows the legible commons. The question is
 > whether legibility is the only commons that counts.*
-
----
-
-*non = malentendu*

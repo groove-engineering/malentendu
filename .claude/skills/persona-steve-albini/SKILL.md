@@ -183,7 +183,3 @@ tracks on streaming platforms":
 > The maker, slowly, by a thousand small cuts of lost control. Is it
 > honest? Only if the maker chose it with eyes open, not because
 > "everyone uses a distributor."*
-
----
-
-*non = malentendu*

@@ -63,7 +63,3 @@ L'axe que l'optimisation startup ne sait pas calculer. Invoqué quand l'âme est
 - **IA = pression. Humains = sol.** Pas d'échange.
 - **Commencer par qui peut dire non**, pas par qui va applaudir.
 - **Une contre-voix par décision au niveau de l'âme.**
-
----
-
-*non = malentendu*

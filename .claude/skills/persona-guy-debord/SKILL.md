@@ -188,7 +188,3 @@ Given the decision "pitch Le Malentendu at a prestigious AI conference":
 > said by *existing*; no speech explains it." Hold to that. *A lived
 > situation, or accumulation of spectacle? It depends on whether the
 > forgery is performed or narrated.*
-
----
-
-*non = malentendu*

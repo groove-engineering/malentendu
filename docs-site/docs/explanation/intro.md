@@ -50,7 +50,3 @@ Disagreement is the point.
 python3 poc/compile.py          # compile fusions -> Suno + brief
 python3 poc/compile.py --check  # self-check
 ```
-
----
-
-*non = malentendu*

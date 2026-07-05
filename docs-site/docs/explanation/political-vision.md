@@ -34,7 +34,3 @@ The spectacle's end point is infinite frictionless content. To defend the **irre
 ## Positive synthesis
 
 > Le Malentendu defends **creolization** and the **right to opacity**, against **enclosure** and **flattening** — with the enemy's weapons, and owning it.
-
----
-
-*non = malentendu*
