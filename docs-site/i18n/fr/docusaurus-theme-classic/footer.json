@@ -26,10 +26,7 @@
   "link.item.label.Crossings": {
     "message": "Croisements"
   },
-  "link.item.label.Give Feedback": {
-    "message": "Donner un retour"
-  },
-  "link.item.label.GitHub": {
+"link.item.label.GitHub": {
     "message": "GitHub"
   },
   "copyright": {

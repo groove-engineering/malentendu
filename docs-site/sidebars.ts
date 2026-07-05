@@ -44,7 +44,6 @@ const sidebars: SidebarsConfig = {
     'reference/schema',
   ],
   howToSidebar: [
-    'how-to/give-feedback',
     'how-to/send-listening-sheet',
     'how-to/message-listener',
   ],
