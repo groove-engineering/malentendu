@@ -68,5 +68,24 @@
     "references": ["Ensemble Organum", "RP Boo", "DJ Rashad", "Traxman"],
     "avoid": "busy hi-hat rolls, chopped-vocal chaos, density, juke/EDM cliché — footwork is stripped and kick-driven (corr. practitioner)",
     "vocal": "Latin plainchant, male choir, reverberant"
+  },
+  {
+    "id": "idm-x-italo-disco",
+    "genre_a": "IDM",
+    "genre_b": "Italo disco",
+    "groove_from": {
+      "genre": "IDM",
+      "desc": "mid-tempo hip-hop-derived beat patterns, dragged-out breakbeats with analogue tape degradation; Boards of Canada lineage — the rhythm is felt, not danced"
+    },
+    "harmony_from": {
+      "genre": "Italo disco",
+      "desc": "catchy synth arpeggios, Roland Jupiter-8 melodic hooks, vocoder harmonies, the plastic euphoria of early-80s Italian electronic pop"
+    },
+    "instrumentation": ["detuned vintage synthesizers", "Roland Jupiter-8 arpeggios", "LinnDrum", "TR-808", "reel-to-reel tape recorder", "vocoder", "found-sound samples from 1970s TV"],
+    "production": "grainy lo-fi tape saturation over propulsive electronic drum machines; two textures cohabiting — degraded analogue warmth against crisp four-on-the-floor pulse",
+    "tempo_feel": "110-120 bpm, four-on-the-floor italo pulse felt through BoC tape haze",
+    "tension": "two retro-futurisms on one detuned oscillator — BoC mourning a childhood through broken VHS, italo celebrating a tomorrow through a Roland Jupiter; the italo pulse stays propulsive, the BoC grain stays lo-fi",
+    "references": ["Boards of Canada", "Klein & MBO", "Alexander Robotnick", "Giorgio Moroder"],
+    "avoid": "synthwave, clean 80s pastiche, vaporwave irony, chillwave, ambient drift, camp — neither source is a nostalgic costume"
   }
 ]
