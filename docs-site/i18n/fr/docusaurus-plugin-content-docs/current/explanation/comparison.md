@@ -25,7 +25,7 @@ Un **prompt brut** est du texte libre tapé directement dans un modèle. Il prod
 
 ## Côte à côte
 
-| Critère | Prompt brut (tapé dans Suno) | groove-engineer |
+| Critère | Prompt brut (tapé dans Suno) | Le Malentendu |
 |---------|------------------------------|-----------------|
 | **Cibles** | 1 prompt = 1 modèle ; réécrire pour chaque backend | 1 source → N backends compilés |
 | **Provenance** | opinion indifférenciée, pas de trace | chaque affirmation a `held_by` + registre |

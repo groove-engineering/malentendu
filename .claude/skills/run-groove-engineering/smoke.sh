@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Smoke test for groove-engineering PoC: schema, atomgraph, validate, compile.
+# Smoke test for Le Malentendu PoC: schema, atomgraph, validate, compile.
 # Run from repo root. Exits non-zero on the first failure.
 set -euo pipefail
 

@@ -2,14 +2,14 @@
 version: 1.0.0
 name: run-groove-engineering
 description: >-
-  Build, run, and test the groove-engineering PoC (genre-atom compiler).
-  Use when asked to run groove-engineering, test it, validate atoms,
+  Build, run, and test the Le Malentendu PoC (genre-atom compiler).
+  Use when asked to run Le Malentendu, test it, validate atoms,
   compile crossings, or verify changes to the schema/atomgraph/compiler.
 ---
 
-# Run groove-engineering
+# Run Le Malentendu
 
-groove-engineering is a Python CLI/library — a knowledge graph of music genre
+Le Malentendu is a Python CLI/library — a knowledge graph of music genre
 atoms and crossings with a compiler that renders them into Suno prompts and
 human briefs. "Running" it means exercising the compiler, validator, and tests.
 Drive it via `.claude/skills/run-groove-engineering/smoke.sh` for the full

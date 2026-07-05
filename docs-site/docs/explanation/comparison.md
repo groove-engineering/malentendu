@@ -25,7 +25,7 @@ A **raw prompt** is free text typed straight into one model. It produces a *soun
 
 ## Side by side
 
-| Criterion | Raw prompt (typed into Suno) | groove-engineer |
+| Criterion | Raw prompt (typed into Suno) | Le Malentendu |
 |-----------|------------------------------|-----------------|
 | **Targets** | 1 prompt = 1 model; rewrite for each backend | 1 source → N compiled backends |
 | **Provenance** | undifferentiated opinion, no trace | each claim has `held_by` + register |

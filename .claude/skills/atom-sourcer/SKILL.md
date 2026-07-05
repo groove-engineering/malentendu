@@ -3,9 +3,9 @@ version: 1.0.0
 name: atom-sourcer
 description: >-
   Research a music genre and produce a sourced, schema-valid genre atom
-  (poc/atoms/<genre>.yaml) for the groove-engineer knowledge graph. Use this
+  (poc/atoms/<genre>.yaml) for the Le Malentendu knowledge graph. Use this
   whenever the user wants to add, source, research, or create an atom for a genre
-  in groove-engineer — e.g. "source the dub atom", "add gqom to the graph",
+  in Le Malentendu — e.g. "source the dub atom", "add gqom to the graph",
   "research maloya for the atoms", "we need a footwork atom", or any time you are
   filling poc/atoms/. Every musicological fact must carry a real, verified
   citation with a checkable locator; the agent fills register 1 (musicological)
@@ -14,7 +14,7 @@ description: >-
 
 # Atom sourcer
 
-A genre **atom** is the unit of the groove-engineer method: cure the atom once and
+A genre **atom** is the unit of the Le Malentendu method: cure the atom once and
 you repair all of its fusions (see [`docs-site/docs/reference/knowledge-graph/overview.md`](../../../docs-site/docs/reference/knowledge-graph/overview.md)
 and [`docs-site/docs/explanation/method.md`](../../../docs-site/docs/explanation/method.md)). This skill produces one
 atom file — `poc/atoms/<genre>.yaml` — by researching the genre and writing down

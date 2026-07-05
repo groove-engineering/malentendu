@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""groove-engineering — compile genre atoms + crossings into a backend prompt.
+"""Le Malentendu — compile genre atoms + crossings into a backend prompt.
 
 The repo IS the graph: atoms/<genre>.yaml + crossings/<a>-x-<b>.yaml, validated
 by schema.py. This module loads them, checks referential integrity, filters
