@@ -1,0 +1,32 @@
+{
+  "link.title.The Method": {
+    "message": "La Méthode"
+  },
+  "link.title.Knowledge Graph": {
+    "message": "Graphe de connaissances"
+  },
+  "link.title.More": {
+    "message": "Plus"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introduction"
+  },
+  "link.item.label.Core Spec": {
+    "message": "La spec"
+  },
+  "link.item.label.Political Vision": {
+    "message": "Vision politique"
+  },
+  "link.item.label.Atoms": {
+    "message": "Atomes"
+  },
+  "link.item.label.Crossings": {
+    "message": "Croisements"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub"
+  },
+  "copyright": {
+    "message": "AGPLv3 — Le Malentendu. <em>non = malentendu</em>"
+  }
+}

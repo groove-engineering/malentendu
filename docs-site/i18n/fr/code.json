@@ -1,0 +1,53 @@
+{
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Fermer la barre latérale"
+  },
+  "homepage.hero.tagline": {
+    "message": "Une méthode ouverte pour fusionner des genres musicaux"
+  },
+  "homepage.hero.quote": {
+    "message": "« Une musique qui n'a jamais existé. »"
+  },
+  "homepage.cta.method": {
+    "message": "Lire la méthode"
+  },
+  "homepage.cta.graph": {
+    "message": "Parcourir le graphe"
+  },
+  "homepage.feature.modelAgnostic.title": {
+    "message": "Indépendant du modèle"
+  },
+  "homepage.feature.modelAgnostic.description": {
+    "message": "Décrivez une fusion une fois. Compilez vers Suno, Udio, MusicGen, ou un brief humain. Les modèles sont des backends interchangeables."
+  },
+  "homepage.feature.threeRegisters.title": {
+    "message": "Trois registres"
+  },
+  "homepage.feature.threeRegisters.description": {
+    "message": "Chaque affirmation est musicologique (fait), ressentie (subjective), ou politique (valeurs). Ne jamais les confondre."
+  },
+  "homepage.feature.atoms.title": {
+    "message": "Atomes & molécules"
+  },
+  "homepage.feature.atoms.description": {
+    "message": "Curatez ~600 atomes (genres), pas 360 000 molécules (fusions). Corrigez un atome une fois, corrigez tous ses croisements."
+  },
+  "homepage.feature.sourced.title": {
+    "message": "Sourcé & falsifiable"
+  },
+  "homepage.feature.sourced.description": {
+    "message": "Chaque affirmation musicologique porte une citation et un locator. Pas de source, pas de fait."
+  },
+  "homepage.feature.political.title": {
+    "message": "Politique par design"
+  },
+  "homepage.feature.political.description": {
+    "message": "Créolisation, pas lissage. Droit à l'opacité. Auto-implication. La salle des machines, pas les paroles."
+  },
+  "homepage.feature.free.title": {
+    "message": "Libre & ouvert"
+  },
+  "homepage.feature.free.description": {
+    "message": "AGPLv3. Un commun qui résiste à l'enclosure. Ce qui a été fait par tous ne doit pas être re-privatisé par quelques-uns."
+  }
+}

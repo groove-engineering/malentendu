@@ -1,0 +1,8 @@
+node_modules/
+build/
+.docusaurus/
+.cache-loader/
+docs/knowledge-graph/atoms/*.md
+!docs/knowledge-graph/atoms.md
+docs/knowledge-graph/crossings/*.md
+!docs/knowledge-graph/crossings.md

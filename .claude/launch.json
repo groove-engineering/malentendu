@@ -6,6 +6,18 @@
       "runtimeExecutable": "pnpm",
       "runtimeArgs": ["-C", "pitch", "dev"],
       "port": 3030
+    },
+    {
+      "name": "docs",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "docs-site", "start"],
+      "port": 3000
+    },
+    {
+      "name": "docs-fr",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "docs-site", "start", "--", "--locale", "fr"],
+      "port": 3000
     }
   ]
 }
