@@ -1,0 +1,65 @@
+# Electroclash — genre atom. Status: proposed. Musicological claims sourced and
+# verified against Wikipedia (EN), Roland Articles, SoundBridge, Melodigging,
+# and Discogs (fetched and read July 2026). The agent fills `musicological`
+# only; the human-owned layers (constraints / felt / political / exemplars) are
+# left empty.
+atom: electroclash
+status: proposed
+
+musicological:
+  - claim: "fuses 1980s electro, new wave, and synth-pop with 1990s techno, retro-style electropop, and electronic dance music"
+    source:
+      citation: "Wikipedia (EN), 'Electroclash', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Electroclash"
+  - claim: "emerged as a reaction to the rigid formulations of techno music, putting an emphasis on songwriting, showmanship, and a sense of humour"
+    source:
+      citation: "Wikipedia (EN), 'Electroclash', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Electroclash"
+  - claim: "DJ Hell founded International DeeJay Gigolo Records in Munich in 1996, which is widely credited as being the 'germ cell' of the electroclash genre"
+    source:
+      citation: "Wikipedia (EN), 'International DeeJay Gigolo Records', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/International_DeeJay_Gigolo_Records"
+  - claim: "Miss Kittin & The Hacker's '1982' was released in 1997 on International DeeJay Gigolo Records as the first single from the EP Champagne, becoming an early electroclash anthem"
+    source:
+      citation: "Wikipedia (EN), '1982 (Miss Kittin & The Hacker song)', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/1982_(Miss_Kittin_%26_The_Hacker_song)"
+  - claim: "I-F's 'Space Invaders Are Smoking Grass' (1998) is the record widely credited with catalysing the electroclash movement, introducing verse-chorus dynamics to electro with vocodered vocals"
+    source:
+      citation: "Wikipedia (EN), 'Electroclash', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Electroclash"
+  - claim: "Larry Tee trademarked the term 'electroclash' while spinning at the Berliniamsburg party at the club Luxx in Williamsburg, Brooklyn; the term later appeared in the Oxford Dictionary"
+    source:
+      citation: "Wikipedia (EN), 'Larry Tee', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Larry_Tee"
+  - claim: "the inaugural Electroclash Festival, organized by Larry Tee, was held from October 10 to 14, 2001 in Williamsburg, New York, with performers including Fischerspooner, Miss Kittin & The Hacker, ADULT., and Scissor Sisters"
+    source:
+      citation: "Wikipedia (EN), 'Electroclash Festival', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Electroclash_Festival"
+  - claim: "Peaches wrote and recorded the album The Teaches of Peaches (2000) entirely on a Roland MC-505, drawing from 1980s new wave and lo-fi beats"
+    source:
+      citation: "Wikipedia (EN), 'The Teaches of Peaches', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/The_Teaches_of_Peaches"
+  - claim: "typically aims for 120-135 BPM with a steady dancefloor-friendly pulse, using four-on-the-floor kicks or electro-style syncopation for a robotic feel"
+    source:
+      citation: "Melodigging, 'Electroclash', accessed July 2026"
+      locator: "https://www.melodigging.com/genre/electroclash"
+  - claim: "production intentionally returned to early 1980s hardware limitations; rhythm sections are driven by vintage drum machines, particularly the Roland TR-808, with minimal throbbing basslines on analog synthesizers"
+    source:
+      citation: "Roland Articles, 'What Was Electroclash and Where Did it Go?'"
+      locator: "https://articles.roland.com/what-was-electroclash-and-where-did-it-go/"
+  - claim: "vocals are typically delivered via vocoders or in a bored monotone, with songs described as crude, archly humorous, and openly decadent"
+    source:
+      citation: "SoundBridge, 'Electroclash'"
+      locator: "https://www.soundbridge.io/electroclash"
+  - claim: "also known as synthcore, retro-electro, tech-pop, and nouveau disco"
+    source:
+      citation: "Wikipedia (EN), 'Electroclash', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Electroclash"
+  - claim: "ADULT., formed in Detroit in 1998 by Nicola Kuperus and Adam Lee Miller, founded the Ersatz Audio label partly to release their own electropunk records, becoming key figures in the electroclash scene"
+    source:
+      citation: "Wikipedia (EN), 'Ersatz Audio', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Ersatz_Audio"
+  - claim: "the hype around electroclash is said to have been over by 2003; the Electroclash Festival ran as a touring event through 2003 and 2004 before ending"
+    source:
+      citation: "Wikipedia (EN), 'Electroclash Festival', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Electroclash_Festival"
