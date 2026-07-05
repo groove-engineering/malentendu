@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: The Method — representation model
+title: The Method
 ---
 
 # The Method — representation model
@@ -69,12 +69,12 @@ flowchart LR
 
 Engine room, not lyrics. Enacted in the crossings, the license, the forgery — almost never said.
 
-- **Authenticity = power**: we forge the real to expose that it is *certified*, not essential.
-- **Against enclosure, for the commons**: free engine, AGPL.
-- **Creolization, not flattening**: fertile friction against the smoothie / the slop.
-- **Right to opacity**: the unclassifiable against total legibility; illegibility as resistance.
-- **No clean outside — self-implication**: we use the enemy's weapons and we say so.
-- **Meaning over content**: the human ear against throughput.
+- **Authenticity = power** (Debord): we forge the real to expose that it is *certified*, not essential.
+- **Against enclosure, for the commons** (Lessig, Albini): free engine, AGPL. Name the fences; refuse the parasite.
+- **Creolization, not flattening** (Glissant): fertile friction against the smoothie / the slop.
+- **Right to opacity** (Glissant): the unclassifiable against total legibility; illegibility as resistance.
+- **No clean outside — self-implication** (Debord): we use the enemy's weapons and we say so.
+- **Meaning over content** (Schaeffer): the human ear against throughput — the sound object, not the description.
 
 **Two coherence tests** (per crossing / text):
 1. Does it **creolize** (fertile friction) or **flatten** (slop)?
@@ -82,8 +82,8 @@ Engine room, not lyrics. Enacted in the crossings, the license, the forgery — 
 
 ## 7. Two meta-guardrails
 
-- **Form, not sermon.** Politics lives in the gesture, not in preachy lyrics.
-- **The ear judges, not the theory.** A coherence that doesn't *sound* good is dead. The circle decides quality; Glissant won't save a boring track.
+- **Form, not sermon.** Politics lives in the gesture, not in preachy lyrics. (Debord: détournement, not decoration.)
+- **The ear judges, not the theory.** (Schaeffer: *l'écoute réduite*.) A coherence that doesn't *sound* good is dead. The circle decides quality; Glissant won't save a boring track.
 
 ## 8. The curator roster (by register)
 
@@ -92,4 +92,4 @@ Engine room, not lyrics. Enacted in the crossings, the license, the forgery — 
 - **text** → lyricists + guardrails.
 - **political** → the author: the vision is owned and attributed.
 
-Full decision process: [Personas](personas).
+Full decision process and counter-voice portraits: [Personas & Decision Process](personas).

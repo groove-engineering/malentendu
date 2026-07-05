@@ -22,10 +22,10 @@ Un diagnostic façon YC, en mode « questions qui piquent ». Ce qu'il a fait re
 
 ## Phase 2 — le contre-feu situationniste (Debord)
 
-Une voix situationniste a détourné le cadrage startup lui-même :
+La contre-voix de Debord a détourné le cadrage startup lui-même :
 
 - L'usine *est* le spectacle. L'automatisation est le meurtre de la dérive.
-- La vraie question n'est pas « est-ce que ça vaut le coup de le construire », mais **« est-ce la construction d'une situation vécue, ou une accumulation de spectacle de plus ? »**
+- La question forcée : **« est-ce la construction d'une situation vécue, ou une accumulation de spectacle de plus ? »**
 - Verdict : la valeur réside dans le geste vécu (l'instrument), pas dans le débit (l'usine).
 
 ## Phase 3 — le défi adverse (personas)
