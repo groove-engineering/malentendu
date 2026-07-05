@@ -36,6 +36,8 @@ The axis startup optimization can't compute. Invoked whenever the soul is at sta
 - **Guy Debord** (situationist) — détournement, recuperation, spectacle.
 - **Steve Albini** (tradesman, deal ethics) — craft, owning your work, refusing the parasite.
 - **Lawrence Lessig** (free-culture lawyer) — the commons, remix rights, copyright as enclosure.
+- **Édouard Glissant** (poet-philosopher, *Poetics of Relation*) — creolization, the right to opacity, Relation against filiation.
+- **Pierre Schaeffer** (inventor of musique concrète, *Traité des objets musicaux*) — l'objet sonore, l'écoute réduite, the primacy of the ear over the concept.
 
 ### D. Human advisors (real, mapped to roles)
 - **Entertainment-industry operator** (label / AV production / advertising). Role: **real market, rights, access**.
@@ -51,7 +53,7 @@ The axis startup optimization can't compute. Invoked whenever the soul is at sta
    - money / scope → **Finance + Eng**
    - strategy / identity → **CEO + Product**
    - rights / risk → **Legal**
-5. **Mandatory counter-voice when the soul is at stake** → **Debord / Albini**.
+5. **Mandatory counter-voice when the soul is at stake** → **Debord / Albini**. When the question is specifically about creolization, opacity, or extraction → **Glissant**. When description risks replacing listening → **Schaeffer**.
 6. **Ground truth (humans) for existential bets**. The AI panel isn't enough.
 7. **Decide + log** — make the call, record the durable decision, note *which voice* changed your mind.
 
