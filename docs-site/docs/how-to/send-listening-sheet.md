@@ -25,7 +25,9 @@ What I'm looking for from you:
 
 **✊ The stance** — Does it take a position on something? Too much? Not enough? Not readable?
 
-Answer one question if you like — or all three. There's no right answer, only yours.
+**🎯 The intention** — What do you think this fusion is trying to do? Does it land?
+
+Answer one question if you like — or all four. There's no right answer, only yours.
 
 ---
 

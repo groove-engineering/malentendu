@@ -25,7 +25,9 @@ Ce que je cherche chez vous :
 
 **✊ La position** — Est-ce que ça prend position sur quelque chose ? Trop ? Pas assez ? Pas lisible ?
 
-Répondez à une question si vous voulez — ou aux trois. Il n'y a pas de bonne réponse, seulement la vôtre.
+**🎯 L'intention** — D'après vous, cette fusion essaie de faire quoi ? Est-ce que ça arrive ?
+
+Répondez à une question si vous voulez — ou aux quatre. Il n'y a pas de bonne réponse, seulement la vôtre.
 
 ---
 
