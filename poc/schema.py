@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""groove-engineering schema — the data contract for genre atoms.
+"""Le Malentendu schema — the data contract for genre atoms.
 
 The schema IS the method's attribution rule (§3), encoded in types: a
 musicological claim without a source does not validate. The agent's output

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""groove-engineering PoC — the method is the source; models are backends.
+"""Le Malentendu PoC — the method is the source; models are backends.
 
 A fusion is described ONCE (fusions.json), independently of any model.
 A compiler renders it to a target. Suno is just one target among others
