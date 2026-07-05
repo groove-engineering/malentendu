@@ -1,0 +1,52 @@
+# Eurodance — genre atom. Status: proposed. Musicological claims sourced and
+# verified against Wikipedia (EN) and eurodance.it (fetched and read July 2026).
+# The agent fills `musicological` only; the human-owned layers (constraints /
+# felt / political / exemplars) are left empty.
+atom: eurodance
+status: proposed
+
+musicological:
+  - claim: "originated in the late 1980s in Western Europe, especially Germany; the term was adopted retroactively, with one of the first compilation uses being 'DMA Dance Vol. 1: Eurodance' (1995)"
+    source:
+      citation: "Wikipedia (EN), 'Eurodance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Eurodance"
+  - claim: "Snap! (formed 1989 in Frankfurt by producers Michael Munzing and Luca Anzilotti) combined imported hip hop and soul vocals with electronic production; Wikipedia states 'a new genre was born: Eurodance'"
+    source:
+      citation: "Wikipedia (EN), 'Eurodance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Eurodance"
+  - claim: "drum machines set to a four-on-the-floor beat between 120 and 150 BPM, with a bass drum on each beat and a quiet snare on the second and fourth beats"
+    source:
+      citation: "Wikipedia (EN), 'Eurodance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Eurodance"
+  - claim: "instrumentation driven by melodic synthesizers and simple, syncopated bass lines forming the harmony"
+    source:
+      citation: "Wikipedia (EN), 'Eurodance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Eurodance"
+  - claim: "arranged in verse-chorus structures; verses often performed by male rappers and choruses by female singers"
+    source:
+      citation: "Wikipedia (EN), 'Eurodance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Eurodance"
+  - claim: "often English-speaking performers of color from the US and UK served as the hired singers and rappers fronting groups created by European producers"
+    source:
+      citation: "Wikipedia (EN), 'Eurodance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Eurodance"
+  - claim: "stylistic origins include house, techno, Hi-NRG, pop, Eurodisco, hip hop, and disco; based on the Chicago house sound and Belgian new beat"
+    source:
+      citation: "Wikipedia (EN), 'Eurodance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Eurodance"
+  - claim: "Ace of Base (formed 1987, Gothenburg, Sweden) were 'inspired by a Jamaican reggae band who resided in a studio next door' and 'experimented with a fusion of reggae and pop — dubbed China reggae by their Jamaican friends — which became the band's trademark sound'"
+    source:
+      citation: "Wikipedia (EN), 'Ace of Base', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Ace_of_Base"
+  - claim: "'All That She Wants' (1992) features a bouncy reggae-inspired bass line and a basic skank (reggae guitar rhythm pattern); producer Denniz Pop reshaped the composition into 'a dark fusion of dub-reggae with pop'"
+    source:
+      citation: "Wikipedia (EN), 'All That She Wants', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/All_That_She_Wants"
+  - claim: "Happy Nation sold approximately 21 million copies worldwide; Guinness World Records recognized it as the best-selling debut album"
+    source:
+      citation: "Wikipedia (EN), 'Happy Nation', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Happy_Nation"
+  - claim: "golden era spans approximately 1992–1995; by 1997 house and trance increased in popularity over eurodance"
+    source:
+      citation: "Wikipedia (EN), 'Eurodance', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Eurodance"

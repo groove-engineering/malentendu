@@ -1,0 +1,53 @@
+# New wave — genre atom. Status: proposed. Musicological claims sourced and
+# verified against Wikipedia (EN), Encyclopaedia Britannica, Classic Pop Magazine,
+# and Thomann Blog (fetched and read July 2026). The agent fills `musicological`
+# only; the human-owned layers (constraints / felt / political / exemplars) are
+# left empty.
+atom: new-wave
+status: proposed
+
+musicological:
+  - claim: "emerged in the mid- to late 1970s in the United States and United Kingdom; took its name from French New Wave cinema of the late 1950s"
+    source:
+      citation: "Encyclopaedia Britannica, 'New wave music'"
+      locator: "https://www.britannica.com/art/new-wave-music"
+  - claim: "branched off from punk into 'a lighter and more melodic broadening of punk culture', in contrast to the more atmospheric sounds of post-punk"
+    source:
+      citation: "Wikipedia (EN), 'New wave music', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/New_wave_music"
+  - claim: "stylistic origins include punk rock, pop rock, power pop, glam rock, electronic music, krautrock, art pop, funk, reggae, and disco"
+    source:
+      citation: "Wikipedia (EN), 'New wave music', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/New_wave_music"
+  - claim: "features choppy rhythm guitars with angular riffs, fast tempos, keyboards, stop-start song structures, jerky rhythms, and synthesizers"
+    source:
+      citation: "Wikipedia (EN), 'New wave music', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/New_wave_music"
+  - claim: "encompassed significant stylistic diversity: power pop (XTC), synth rock (Gary Numan), songwriters (Elvis Costello), pop-reggae (the Police), ska revivalists (the Specials, Madness), and mainstream pop-rock (the Cars)"
+    source:
+      citation: "Encyclopaedia Britannica, 'New wave music'"
+      locator: "https://www.britannica.com/art/new-wave-music"
+  - claim: "Talking Heads' 'Remain in Light' (1980, produced by Brian Eno) was 'a breakthrough melding of new wave and African styles'; Nigerian musician Fela Kuti's 1973 album 'Afrodisiac' became the band and Eno's template"
+    source:
+      citation: "Wikipedia (EN), 'Remain in Light', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Remain_in_Light"
+  - claim: "the band experimented with 'the communal African way of making music, in which individual parts mesh as polyrhythms', combining African polyrhythms and funk with electronics; sections were recorded as long loops"
+    source:
+      citation: "Wikipedia (EN), 'Remain in Light', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Remain_in_Light"
+  - claim: "Sire Records chairman Seymour Stein launched a 'Don't Call It Punk' campaign in October 1977, rebranding punk-adjacent music as 'new wave'; key signings included the Ramones, Talking Heads, the Pretenders, and Depeche Mode"
+    source:
+      citation: "Wikipedia (EN), 'Sire Records', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Sire_Records"
+  - claim: "MTV launched on 1 August 1981, beginning new wave's most successful era in the US; British musicians 'had learned how to use the music video early on' through programs like Top of the Pops"
+    source:
+      citation: "Wikipedia (EN), 'New wave music', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/New_wave_music"
+  - claim: "the Second British Invasion saw a sharp increase in British synth-pop and new pop popularity in the US beginning summer 1982; on the week of 16 July 1983, twenty of the top forty US singles were British"
+    source:
+      citation: "Wikipedia (EN), 'Second British Invasion', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Second_British_Invasion"
+  - claim: "synth-pop, a subgenre defined by its primary use of synthesizers, drum machines, and sequencers, reached its commercial peak in the UK in the winter of 1981–82"
+    source:
+      citation: "Wikipedia (EN), 'Synth-pop', accessed July 2026"
+      locator: "https://en.wikipedia.org/wiki/Synth-pop"
