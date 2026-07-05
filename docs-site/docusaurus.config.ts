@@ -7,11 +7,11 @@ const config: Config = {
   tagline: 'An open method for fusing musical genres',
   favicon: 'img/favicon.ico',
 
-  url: 'https://trivoallan.github.io',
-  baseUrl: '/groove-engineering/',
+  url: 'https://groove-engineering.github.io',
+  baseUrl: '/malentendu/',
 
-  organizationName: 'trivoallan',
-  projectName: 'groove-engineering',
+  organizationName: 'groove-engineering',
+  projectName: 'malentendu',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -37,7 +37,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/trivoallan/groove-engineering/tree/main/docs-site/',
+          editUrl: 'https://github.com/groove-engineering/malentendu/edit/main/docs-site/',
         },
         blog: false,
         theme: {
@@ -74,7 +74,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/trivoallan/groove-engineering',
+          href: 'https://github.com/groove-engineering/malentendu',
           label: 'GitHub',
           position: 'right',
         },
@@ -102,8 +102,7 @@ const config: Config = {
         {
           title: 'How-to',
           items: [
-            { label: 'Give Feedback', to: '/docs/how-to/give-feedback' },
-            { label: 'GitHub', href: 'https://github.com/trivoallan/groove-engineering' },
+            { label: 'GitHub', href: 'https://github.com/groove-engineering/malentendu' },
           ],
         },
       ],
