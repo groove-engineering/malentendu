@@ -55,7 +55,7 @@ flowchart LR
   Au --> Ear{"the circle's ear"}
   Ear -- "'not footwork'" --> Fix["fix the ATOM"]
   Fix --> Rep
-  Ear -- "'great, but...'" --> Cat["catalogue: found misunderstanding"]
+  Ear -- "'great, but...'" --> Cat["catalog: found misunderstanding"]
 ```
 
 ## 5. Guardrails

@@ -52,7 +52,7 @@ flowchart LR
   Au --> Ear{"the circle's ear"}
   Ear -- "'not footwork'" --> Fix["fix the ATOM"]
   Fix --> Rep
-  Ear -- "'great, but...'" --> Cat["catalogue: found misunderstanding"]
+  Ear -- "'great, but...'" --> Cat["catalog: found misunderstanding"]
 ```
 
 ## 5. The decision process (7 beats)
@@ -91,10 +91,10 @@ These three happened during development. They illustrate the method better than 
 2. **Two readings:**
    - **A — bug = flattening**: a Réunionese resistance music erased into Eastern-bloc rock → **political test #1** (creolization vs flattening) fails.
    - **B — found misunderstanding**: the machine misheard Réunion as Hungary; nobody wanted that precise mishearing — it's the work.
-3. **Decision: both.** **Strengthen the maloya atom** (A) *and* **catalogue it as MR-001** (B).
+3. **Decision: both.** **Strengthen the maloya atom** (A) *and* **catalog it as MR-001** (B).
 4. **Maker's verdict**: *"I don't know if it's maloya, but I find the track great."* → felt wins over fidelity — but **don't label it "maloya."**
 
-> **What it shows:** the felt register, the political **flattening** test, the **method / catalogue** duality, and *non = malentendu* in action.
+> **What it shows:** the felt register, the political **flattening** test, the **method / catalog** duality, and *non = malentendu* in action.
 
 ---
 

@@ -22,7 +22,7 @@ Available in English and French.
 | [Political Vision](https://trivoallan.github.io/groove-engineering/docs/explanation/political-vision) | Six theses: authenticity, commons, creolization, opacity, self-implication, meaning |
 | [Examples](https://trivoallan.github.io/groove-engineering/docs/explanation/examples) | Diagrams + 3 real worked examples |
 | [Knowledge Graph](https://trivoallan.github.io/groove-engineering/docs/reference/knowledge-graph/overview) | Atoms and crossings — navigable |
-| [Catalogue](https://trivoallan.github.io/groove-engineering/docs/reference/catalogue) | The *found misunderstandings* — the happy accidents we keep |
+| [Catalog](https://trivoallan.github.io/groove-engineering/docs/reference/catalog) | The *found misunderstandings* — the happy accidents we keep |
 
 ## This repo
 
@@ -30,7 +30,7 @@ Available in English and French.
 |---|---|
 | [`docs-site/`](docs-site/) | Docusaurus site — the method, published (EN + FR) |
 | [`poc/`](poc/) | the proof: `python3 poc/compile.py` compiles a fusion into a Suno prompt **and** a human brief (two backends, one source) |
-| [`catalogue/tracks/`](catalogue/tracks/) | track pages for found misunderstandings (MR-002 … MR-008) |
+| [`catalog/tracks/`](catalog/tracks/) | track pages for found misunderstandings (MR-002 … MR-008) |
 
 ## Take part
 

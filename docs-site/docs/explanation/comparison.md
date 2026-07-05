@@ -31,7 +31,7 @@ A **raw prompt** is free text typed straight into one model. It produces a *soun
 | **Provenance** | undifferentiated opinion, no trace | each claim has `held_by` + register |
 | **Genre hierarchy** | both genres "equal" → mush or one takes over | frame vs. guest, explicit |
 | **Exclusions** | forgotten, retyped each time | `avoid` always applied, inherited from failures |
-| **Memory** | none — you repeat the same misses | catalogue → the atom hardens |
+| **Memory** | none — you repeat the same misses | catalog → the atom hardens |
 | **Reproducibility** | ephemeral text in a box | diffable YAML, PR review, self-check |
 | **Intent** | dissolved in prose | `tension`, named and held |
 

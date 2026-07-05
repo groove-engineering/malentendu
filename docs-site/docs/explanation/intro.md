@@ -22,7 +22,7 @@ Free, under **AGPLv3**.
 | [Examples](examples) | Diagrams + 3 real worked examples |
 | [Comparison](comparison) | Why the method beats a raw prompt |
 | [Knowledge Graph](/docs/reference/knowledge-graph/overview) | The atoms and crossings — navigable |
-| [Catalogue](/docs/reference/catalogue) | The *found misunderstandings* — beautiful accidents we keep |
+| [Catalog](/docs/reference/catalog) | The *found misunderstandings* — beautiful accidents we keep |
 
 ## The founding principle
 
