@@ -26,6 +26,7 @@ Un **graphe de connaissances d'atomes musicaux** qui remplit trois fonctions à 
 1. **Les collecteurs sont des agents, limités au registre 1 (musicologique).** Ils rapportent une position **attribuée à une source citée**, en statut `proposed`, pour que le cercle valide ou conteste.
 2. **L'attribution va à la source citée**, pas à l'agent. Pas de source, pas de fait.
 3. **L'axe politique (registre 3) est de première classe — assumé, et jamais rempli par l'agent.**
+4. **Le registre intention (registre 4) est tenu, comme le ressenti et le politique.** Le projet déclaré du créateur pour une fusion — pas falsifiable, pas contraignant au rendu. Vit sur les croisements (intention de design) et les exemplaires (intention d'exécution).
 
 ## Schéma (contrat de données)
 
@@ -49,6 +50,18 @@ class Atom(BaseModel):
     felt: list[HeldClaim]                     # registre 2 — le cercle
     political: list[HeldClaim]               # registre 3 — assumé, l'agent ne remplit JAMAIS
     exemplars: list[Exemplar]
+
+class Crossing(BaseModel):
+    crossing: str
+    atoms: tuple[str, str]
+    frame_from: str
+    tension: str
+    intention: list[HeldClaim]    # registre 4 — projet déclaré du créateur, tenu
+    avoid: str | None
+    creolizes: str
+    opacity_preserved: str
+    self_implication: str
+    held_by: list[str]
 ```
 
 ## Statuts & modes de compilation
