@@ -9,17 +9,28 @@ backends**.
 
 Free, under **AGPLv3**.
 
+## Documentation
+
+The full method is published at:
+**[trivoallan.github.io/groove-engineering](https://trivoallan.github.io/groove-engineering/)**
+
+Available in English and French.
+
+| | |
+|---|---|
+| [The Method](https://trivoallan.github.io/groove-engineering/docs/method/core) | The spec: 2 layers (sound + text), 3 registers (musicological / felt / political), atoms vs molecules |
+| [Political Vision](https://trivoallan.github.io/groove-engineering/docs/method/political-vision) | Six theses: authenticity, commons, creolization, opacity, self-implication, meaning |
+| [Examples](https://trivoallan.github.io/groove-engineering/docs/method/examples) | Diagrams + 3 real worked examples |
+| [Knowledge Graph](https://trivoallan.github.io/groove-engineering/docs/knowledge-graph/overview) | Atoms and crossings — navigable |
+| [Catalogue](https://trivoallan.github.io/groove-engineering/docs/catalogue/misunderstandings) | The *found misunderstandings* — the happy accidents we keep |
+
 ## This repo
 
 | | |
 |---|---|
-| [`GENESIS.md`](GENESIS.md) | how the project was born, in the open |
-| [`process/method.md`](process/method.md) | the spec: 2 layers (sound + text), 3 registers (musicological / felt / political), atoms vs molecules, political vision |
-| [`process/political-vision.md`](process/political-vision.md) | the political vision in full — six theses: authenticity, commons, creolization, opacity, self-implication, meaning |
-| [`process/examples.md`](process/examples.md) | diagrams + 3 real worked examples |
-| [`process/comparison.md`](process/comparison.md) | why the method beats a raw prompt — features + side-by-side |
-| [`catalogue/misunderstandings.md`](catalogue/misunderstandings.md) | the *found misunderstandings* — the happy accidents we keep |
+| [`docs-site/`](docs-site/) | Docusaurus site — the method, published (EN + FR) |
 | [`poc/`](poc/) | the proof: `python3 poc/compile.py` compiles a fusion into a Suno prompt **and** a human brief (two backends, one source) |
+| [`catalogue/tracks/`](catalogue/tracks/) | track pages for found misunderstandings (MR-002 … MR-008) |
 
 ## Take part
 
@@ -34,3 +45,12 @@ python3 poc/compile.py          # compile fusions -> Suno + brief
 python3 poc/compile.py --check  # self-check
 ```
 
+## Run the docs locally
+
+```bash
+cd docs-site && npm install && npm run generate-atoms && npm start
+```
+
+---
+
+*non = malentendu*
