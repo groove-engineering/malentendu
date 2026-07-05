@@ -22,7 +22,7 @@ Libre, sous **AGPLv3**.
 | [Exemples](examples) | Diagrammes + 3 exemples concrets |
 | [Comparaison](comparison) | Pourquoi la méthode bat un prompt brut |
 | [Graphe de connaissances](/docs/reference/knowledge-graph/overview) | Les atomes et croisements — navigables |
-| [Catalogue](/docs/reference/catalogue) | Les *malentendus trouvés* — les beaux accidents qu'on garde |
+| [Catalogue](/docs/reference/catalog) | Les *malentendus trouvés* — les beaux accidents qu'on garde |
 
 ## Le principe fondateur
 

@@ -40,7 +40,7 @@ const sidebars: SidebarsConfig = {
         },
       ],
     },
-    'reference/catalogue',
+    'reference/catalog',
     'reference/schema',
   ],
   howToSidebar: [
