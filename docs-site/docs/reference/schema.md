@@ -26,6 +26,7 @@ A **knowledge graph of musical atoms** that serves three functions at once: a st
 1. **Collectors are agents, scoped to register 1 (musicological) only.** They report a position **attributed to a cited source**, in status `proposed`, for the circle to validate or contest.
 2. **Attribution goes to the cited source**, not to the agent. No source, no fact.
 3. **The political axis (register 3) is first-class — owned, and never agent-filled.**
+4. **The intention register (register 4) is held, like felt and political.** The maker's declared project for a fusion — not falsifiable, not constraining at render. Lives on crossings (design intention) and exemplars (execution intention).
 
 ## Schema (data contract)
 
@@ -55,6 +56,7 @@ class Crossing(BaseModel):
     atoms: tuple[str, str]
     frame_from: str
     tension: str
+    intention: list[HeldClaim]    # register 4 — the maker's declared project, held
     avoid: str | None
     creolizes: str            # §6 coherence test
     opacity_preserved: str    # §6 coherence test

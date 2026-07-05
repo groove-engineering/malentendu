@@ -33,6 +33,7 @@ Chaque **atome** porte :
 Chaque **croisement** porte :
 - Quels atomes il fusionne, et lequel est le **cadre**
 - La **tension** à tenir
+- L'**intention** (registre 4) — le projet déclaré du créateur pour cette fusion
 - Ce qu'il faut **éviter**
 - Les trois réponses de cohérence §6 : créolise, opacité préservée, auto-implication
 

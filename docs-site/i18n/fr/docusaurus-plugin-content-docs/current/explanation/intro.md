@@ -45,7 +45,7 @@ Ce sont des stances IA, pas des simulations de personnes. Elles affûtent ; l'hu
 | | |
 |---|---|
 | [Genèse](genesis) | Comment le projet est né, à découvert |
-| [La Méthode](method) | La spec : 2 couches (son + texte), 3 registres (musicologique / ressenti / politique), atomes vs molécules |
+| [La Méthode](method) | La spec : 2 couches (son + texte), 4 registres (musicologique / ressenti / politique / intention), atomes vs molécules |
 | [Vision politique](political-vision) | Six thèses, chacune portée par une contre-voix |
 | [Exemples](examples) | Diagrammes + 3 exemples concrets |
 | [Comparaison](comparison) | Pourquoi la méthode bat un prompt brut |
@@ -56,7 +56,7 @@ Ce sont des stances IA, pas des simulations de personnes. Elles affûtent ; l'hu
 ## Participer
 
 Lisez le RFC ouvert et **commentez sur la Pull Request**. Tagguez votre registre :
-🎼 musicologique (un fait) · 👂 ressenti (subjectif) · ✊ politique (valeurs).
+🎼 musicologique (un fait) · 👂 ressenti (subjectif) · ✊ politique (valeurs) · 🎯 intention (un projet).
 Le désaccord est le sujet.
 
 ## Lancer la preuve

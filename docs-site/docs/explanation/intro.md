@@ -45,7 +45,7 @@ They are AI stances, not simulations of people. They sharpen; the human decides.
 | | |
 |---|---|
 | [Genesis](genesis) | How the project was born, in the open |
-| [The Method](method) | The spec: 2 layers (sound + text), 3 registers (musicological / felt / political), atoms vs molecules |
+| [The Method](method) | The spec: 2 layers (sound + text), 4 registers (musicological / felt / political / intention), atoms vs molecules |
 | [Political Vision](political-vision) | Six theses, each voiced through a counter-voice |
 | [Examples](examples) | Diagrams + 3 real worked examples |
 | [Comparison](comparison) | Why the method beats a raw prompt |
@@ -56,7 +56,7 @@ They are AI stances, not simulations of people. They sharpen; the human decides.
 ## Take part
 
 Read the open RFC and **comment on the Pull Request**. Tag your register:
-🎼 musicological (a fact) · 👂 felt (subjective) · ✊ political (values).
+🎼 musicological (a fact) · 👂 felt (subjective) · ✊ political (values) · 🎯 intention (a project).
 Disagreement is the point.
 
 ## Run the proof

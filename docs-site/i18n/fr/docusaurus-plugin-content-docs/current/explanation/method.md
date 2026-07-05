@@ -28,7 +28,7 @@ Une fusion n'est pas que du son — c'est aussi des mots, et **le texte fusionne
 - **Son** : groove, harmonie, instrumentation, production, tempo/feeling, tension.
 - **Texte** : langue, thèmes/contenu, concept/détournement, paroles (sortie compilée, dans la langue requise).
 
-## 2. Trois registres
+## 2. Quatre registres
 
 Chaque affirmation (son ou texte) appartient à un registre. Les confondre est l'erreur à éviter.
 
@@ -37,10 +37,11 @@ Chaque affirmation (son ou texte) appartient à un registre. Les confondre est l
 | **musicologique** | fait structurel (tempo, mode, instrumentation, traits du genre, langue/convention) | musicologue / praticien expert | oui (vrai/faux) | contraintes |
 | **ressenti** | expérience subjective (beau, « ça marche », reconnaissance, émotion) | tout auditeur | non (tenu, pas vrai) | intention / ambiance |
 | **politique** | valeurs / vision du monde (ce que le geste dit) | une position assumée, attribuée | non, mais doit être **cohérent** | sens / choix structurels |
+| **intention** | projet déclaré (ce que le créateur veut accomplir avec la fusion) | le créateur / curateur alternatif | non (tenu, déclaratif) | direction / brief |
 
 ## 3. Attribution — des positions, pas des vérités
 
-Chaque affirmation porte sa **source**. Le musicologique peut être vrai ou faux (un expert tranche) ; le ressenti et le politique sont *tenus*, pas vrais. Un atome de genre = un faisceau de **positions attribuées**, contestables. Deux curateurs peuvent diverger : le moteur garde les deux.
+Chaque affirmation porte sa **source**. Le musicologique peut être vrai ou faux (un expert tranche) ; le ressenti, le politique et l'intention sont *tenus*, pas vrais. Un atome de genre = un faisceau de **positions attribuées**, contestables. Deux curateurs peuvent diverger : le moteur garde les deux.
 
 ## 4. Atomes & molécules
 
@@ -91,5 +92,6 @@ Salle des machines, pas paroles. Incarnée dans les croisements, la licence, la 
 - **ressenti** → le cercle des auditeurs.
 - **texte** → paroliers + garde-fous.
 - **politique** → l'auteur : la vision est assumée et attribuée.
+- **intention** → le créateur (par défaut) ; d'autres curateurs peuvent porter une intention différente.
 
 Processus de décision complet et portraits des contre-voix : [Personas & processus de décision](personas).

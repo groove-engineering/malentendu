@@ -30,9 +30,9 @@ flowchart LR
   g3["Footwork (atom)"] -. "fixed once" .-> T["repairs its ~600 crossings"]
 ```
 
-## 3. The three registers of a claim
+## 3. The four registers of a claim
 
-Never conflate them: a fact, a feeling and a value aren't handled the same way.
+Never conflate them: a fact, a feeling, a value and a project aren't handled the same way.
 
 ```mermaid
 flowchart TB
@@ -40,6 +40,7 @@ flowchart TB
   C --> M["🎼 musicological<br/>fact · verifiable · expert"]
   C --> R["👂 felt<br/>subjective · held · listener"]
   C --> P["✊ political<br/>values · coherent · owned"]
+  C --> I["🎯 intention<br/>declared project · held · maker"]
 ```
 
 ## 4. The curation loop

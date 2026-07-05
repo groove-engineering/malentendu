@@ -30,9 +30,9 @@ flowchart LR
   g3["Footwork (atome)"] -. "corrigé une fois" .-> T["répare ses ~600 croisements"]
 ```
 
-## 3. Les trois registres d'une affirmation
+## 3. Les quatre registres d'une affirmation
 
-Ne jamais les confondre : un fait, un ressenti et une valeur ne se traitent pas de la même façon.
+Ne jamais les confondre : un fait, un ressenti, une valeur et un projet ne se traitent pas de la même façon.
 
 ```mermaid
 flowchart TB
@@ -40,6 +40,7 @@ flowchart TB
   C --> M["🎼 musicologique<br/>fait · vérifiable · expert"]
   C --> R["👂 ressenti<br/>subjectif · tenu · auditeur"]
   C --> P["✊ politique<br/>valeurs · cohérent · assumé"]
+  C --> I["🎯 intention<br/>projet déclaré · tenu · créateur"]
 ```
 
 ## 4. La boucle de curation
