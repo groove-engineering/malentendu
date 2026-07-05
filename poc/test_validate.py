@@ -61,6 +61,25 @@ def test_dangling_crossing_is_flagged():
     assert errors and "unknown atom" in errors[0]
 
 
+def test_good_overlay_passes():
+    atoms_d = _dir_with("maloya.yaml", _GOOD_ATOM)
+    overlays_d = _dir_with(
+        "maloya.yaml",
+        "atom: maloya\nfelt:\n  - text: trance-inducing\n    held_by: [Tristan]\n",
+    )
+    assert validate(atoms_d, "no-crossings", overlays_d) == []
+
+
+def test_dangling_overlay_is_flagged():
+    atoms_d = _dir_with("maloya.yaml", _GOOD_ATOM)
+    overlays_d = _dir_with(
+        "footwork.yaml",
+        "atom: footwork\nfelt:\n  - text: frenetic\n    held_by: [author]\n",
+    )
+    errors = validate(atoms_d, "no-crossings", overlays_d)
+    assert errors and "unknown atom" in errors[0]
+
+
 def _run():
     n = 0
     for name, fn in sorted(globals().items()):

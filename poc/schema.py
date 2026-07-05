@@ -97,6 +97,14 @@ class MusicologicalReport(BaseModel):       # what the agent emits — register 
     musicological: list[MusicologicalClaim]
 
 
+class HumanOverlay(BaseModel):              # what humans persist — registers 2+3, by construction
+    atom: str                               # must match an existing atom in atoms/
+    felt: list[HeldClaim] = []              # register 2 — the circle
+    political: list[HeldClaim] = []         # register 3 — owned values
+    constraints: list[Constraint] = []
+    exemplars: list[Exemplar] = []
+
+
 class Crossing(BaseModel):
     crossing: str
     atoms: tuple[str, str]

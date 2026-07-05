@@ -11,11 +11,11 @@ Run: python validate.py [atoms_dir] [crossings_dir]   (defaults: atoms crossings
 import sys
 from pathlib import Path
 
-from atomgraph import check_refs, load_atoms, load_crossings
+from atomgraph import check_overlay_refs, check_refs, load_atoms, load_crossings, load_overlays
 from schema import valid_locator
 
 
-def validate(atoms_dir="atoms", crossings_dir="crossings") -> list[str]:
+def validate(atoms_dir="atoms", crossings_dir="crossings", overlays_dir="overlays") -> list[str]:
     """Return a list of human-readable problems (empty = everything is valid)."""
     try:
         atoms = load_atoms(atoms_dir) if Path(atoms_dir).is_dir() else {}
@@ -25,10 +25,18 @@ def validate(atoms_dir="atoms", crossings_dir="crossings") -> list[str]:
         crossings = load_crossings(crossings_dir) if Path(crossings_dir).is_dir() else []
     except Exception as e:
         return [f"a crossing failed schema validation: {e}"]
+    try:
+        overlays = load_overlays(overlays_dir) if Path(overlays_dir).is_dir() else {}
+    except Exception as e:
+        return [f"an overlay failed schema validation: {e}"]
 
     errors = []
     try:
         check_refs(crossings, atoms)
+    except Exception as e:
+        errors.append(str(e))
+    try:
+        check_overlay_refs(overlays, atoms)
     except Exception as e:
         errors.append(str(e))
     for name, atom in atoms.items():
@@ -45,8 +53,9 @@ def main(argv) -> int:
     dirs = [a for a in argv if not a.startswith("--")]
     atoms_dir = dirs[0] if dirs else "atoms"
     crossings_dir = dirs[1] if len(dirs) > 1 else "crossings"
+    overlays_dir = dirs[2] if len(dirs) > 2 else "overlays"
     n_atoms = len(load_atoms(atoms_dir)) if Path(atoms_dir).is_dir() else 0
-    errors = validate(atoms_dir, crossings_dir)
+    errors = validate(atoms_dir, crossings_dir, overlays_dir)
     if errors:
         print(f"FAIL: {len(errors)} problem(s):")
         for e in errors:

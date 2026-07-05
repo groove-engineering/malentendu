@@ -22,14 +22,14 @@ claims by compile mode, and composes a crossing into a Suno prompt + human brief
 
 See: process/rfc/atoms-knowledge-graph.md  ·  tests: test_atomgraph.py
 Run: python atomgraph.py --check
-     python atomgraph.py <atoms_dir> <crossings_dir> [--strict]
+     python atomgraph.py <atoms_dir> <crossings_dir> [overlays_dir] [--strict]
 """
 import sys
 from pathlib import Path
 
 import yaml
 
-from schema import Atom, Crossing, MusicologicalClaim, Status
+from schema import Atom, Crossing, HumanOverlay, MusicologicalClaim, Status
 
 DRAFT, STRICT = "draft", "strict"
 MODE_STATUSES = {
@@ -73,6 +73,34 @@ def load_crossings(directory) -> list[Crossing]:
     return list(_load_dir(directory, Crossing))
 
 
+def load_overlays(directory) -> dict[str, HumanOverlay]:
+    return {o.atom: o for o in _load_dir(directory, HumanOverlay)}
+
+
+def merge_overlays(atoms: dict[str, Atom], overlays: dict[str, HumanOverlay]) -> dict[str, Atom]:
+    """Return a new dict with overlay claims appended to their matching atoms."""
+    merged = {}
+    for name, atom in atoms.items():
+        ov = overlays.get(name)
+        if ov is None:
+            merged[name] = atom
+            continue
+        merged[name] = atom.model_copy(update={
+            "felt": atom.felt + ov.felt,
+            "political": atom.political + ov.political,
+            "constraints": atom.constraints + ov.constraints,
+            "exemplars": atom.exemplars + ov.exemplars,
+        })
+    return merged
+
+
+def check_overlay_refs(overlays: dict[str, HumanOverlay], atoms: dict[str, Atom]) -> None:
+    """Every overlay must reference an existing atom. Else UnknownAtom."""
+    for name in overlays:
+        if name not in atoms:
+            raise UnknownAtom(f"overlay {name!r} references unknown atom")
+
+
 def compose_suno(crossing: Crossing, atoms: dict[str, Atom], mode: str = DRAFT):
     """Compose one crossing into (suno_prompt, avoid). Per-genre facts come from the atoms."""
     check_refs([crossing], atoms)
@@ -85,8 +113,12 @@ def compose_suno(crossing: Crossing, atoms: dict[str, Atom], mode: str = DRAFT):
     return ", ".join(parts), (crossing.avoid or "")
 
 
-def render_all(atoms_dir, crossings_dir, mode=DRAFT):
+def render_all(atoms_dir, crossings_dir, mode=DRAFT, overlays_dir=None):
     atoms = load_atoms(atoms_dir)
+    if overlays_dir and Path(overlays_dir).is_dir():
+        overlays = load_overlays(overlays_dir)
+        check_overlay_refs(overlays, atoms)
+        atoms = merge_overlays(atoms, overlays)
     crossings = load_crossings(crossings_dir)
     check_refs(crossings, atoms)  # fail fast before rendering anything
     for c in crossings:
@@ -106,4 +138,5 @@ if __name__ == "__main__":
     else:
         mode = STRICT if "--strict" in args else DRAFT
         pos = [a for a in args if not a.startswith("--")]
-        render_all(pos[0], pos[1], mode)
+        overlays_dir = pos[2] if len(pos) > 2 else None
+        render_all(pos[0], pos[1], mode, overlays_dir)
