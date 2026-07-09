@@ -1,0 +1,50 @@
+[
+  {
+    "id": "la-tessiture-ca-degouline",
+    "type": "détournement",
+    "source": {
+      "title": "Frère Jacques",
+      "form": "canon à 4 voix",
+      "origin": "comptine française, domaine public, tradition orale",
+      "meter": {
+        "pattern": [4, 4, 3, 3, 6, 6, 3, 3],
+        "note": "syllabes par phrase, chaque phrase répétée"
+      }
+    },
+    "concept": "La tessiture (abstraction musicale) prise au pied de la lettre : elle dégouline, fait des flaques, fond. Le jargon du chant lyrique envahit la comptine enfantine. Chaque couplet escalade l'absurde. Les onomatopées de cloches (ding dong) deviennent onomatopées aquatiques (glouglou, plic ploc, floc, sploutch).",
+    "sound_layer": {
+      "form": "canon à 4 voix, chaque voix entre avec 2 mesures de décalage",
+      "melody": "identique à Frère Jacques (do ré mi do | do ré mi do | mi fa sol — | mi fa sol — | sol la sol fa mi do | sol la sol fa mi do | do sol₃ do — | do sol₃ do —)",
+      "key": "do majeur",
+      "tempo_feel": "~120 bpm, enfantin, guilleret"
+    },
+    "text_layer": {
+      "language": "français",
+      "themes": ["tessiture", "technique vocale", "solfège", "liquéfaction", "absurde"],
+      "detournement": "la comptine universelle devient véhicule du jargon musicologique ; la forme innocente porte un contenu spécialisé ; les onomatopées aquatiques remplacent les cloches"
+    },
+    "registers": {
+      "musicological": "La forme du canon est préservée intacte. Le compte syllabique suit strictement le patron original (4-4, 3-3, 6-6, 3-3). La prosodie française respecte les élisions chantées (tessiture → 4 syl., dégoutt' → 3 syl.). Chaque couplet emploie au moins un terme de technique musicale (tessiture, vibrato, bémol, contre-ut, solfège, mélodie, croches, ténor).",
+      "felt": "Surprise comique de la collision entre forme enfantine et jargon adulte. Plaisir de la reconnaissance + subversion. Escalade absurde couplet après couplet. Onomatopées aquatiques progressives (glouglou → plic ploc → do ré mi → floc → sploutch).",
+      "political": "Détournement au sens de Debord : le bien commun culturel (comptine) est subverti sans être détruit. Le jargon musicologique garde son opacité (droit à l'opacité, Glissant) ; la forme garde son innocence. La parodie ne flatte ni n'explique — elle frotte."
+    },
+    "coherence_tests": {
+      "creolization_vs_flattening": "Créolise : la collision entre forme enfantine et contenu savant produit un objet que ni l'un ni l'autre ne pourrait produire seul. Pas de lissage — le jargon reste jargon, la comptine reste comptine.",
+      "opacity_vs_extraction": "Préserve l'opacité : le solfège n'est pas expliqué, la comptine n'est pas moquée. Les deux registres coexistent sans se résoudre."
+    },
+    "wordplay": [
+      "« Fond au sol » : double sens — sol = note de musique (G) ET plancher. La mélodie fond sur la note sol et tombe par terre.",
+      "« C'est la faute au solfège » : écho de « c'est la faute à Voltaire » (Gavroche, Les Misérables) — détournement au carré.",
+      "« Sorbet de croches » : métaphore culinaire appliquée aux figures de notes — la musique comme matière comestible qui fond.",
+      "« Il essore le ténor » : geste physique (essorer un torchon) appliqué à un type de voix devenu corps spongieux.",
+      "« À l'éponge » : double sens — apporter l'éponge (nettoyer) ET jeter l'éponge (abandonner, comme en boxe).",
+      "Onomatopées : glouglou → plic ploc → floc → sploutch — progression de l'écoulement au jaillissement, miroir liquide du « ding dong » original."
+    ],
+    "references": ["Guy Debord (détournement)", "Édouard Glissant (opacité)", "Victor Hugo / Les Misérables (Gavroche)"],
+    "constraints": [
+      {"claim": "Le compte syllabique correspond exactement au patron de Frère Jacques", "held_by": ["la méthode"], "note": "sinon la parodie n'est pas chantable sur la mélodie originale"},
+      {"claim": "Chaque couplet utilise au moins un terme de technique musicale", "held_by": ["le concept"]}
+    ],
+    "avoid": "pédagogie musicale (ce n'est pas un cours), humour gras, moquerie du chant lyrique (la parodie est affectueuse, pas méprisante)"
+  }
+]
